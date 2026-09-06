@@ -12,29 +12,29 @@ End-to-end analysis of simulated NHS waiting list data across 8 trusts and 8 spe
 ## Tools Used
 Excel & Power Query (cleaning) · SQL (validation & analysis) · Power BI (data modelling, DAX, dashboard).
 
-## 1. Database & Table Creation
+## Database & Table Creation
 •	Designed a SQL staging table matching the raw export’s structure (trust, specialty, month, wait bands, breaches, region)
 
 •	Built 01_nhs_create_check_table.sql to create the table ahead of import.
 
-## 2. Data Import
+##  Data Import
 •	Imported the raw CSV export into the staging table.
 
 •	Verified row counts and column mappings against the source file before starting any analysis.
 
-## 3. 🔍 Data Exploration
+## 🔍 Data Exploration
 •	Logged data quality issues: inconsistent text casing, mixed date formats, numbers stored as text, missing values, duplicate rows, and one impossible negative value.
 
 •	Ran 02_nhs_cleaning_validation_queries.sql to confirm the scope of each issue before deciding how to fix it.
 
-## 4. 🧹 Data Cleaning
+## 🧹 Data Cleaning
 •	Standardised trust/specialty names, parsed dates into a proper date type, and stripped commas from numeric fields in Power Query.
 
 •	Handled missing values with a documented rule and removed duplicate rows.
 
 •	Reloaded the cleaned data into SQL and re-ran the validation queries to confirm the cleaning worked.
 
-## 5. 📊 Business Insights
+## 📊 Business Insights
 •	Wrote 03_nhs_analysis.sql to answer each business question directly.
 
 •	Built the Power BI model (date table, DAX measures) and a 3-page report — Overview / By Specialty / By Trust & Region — with slicers for interactivity.
