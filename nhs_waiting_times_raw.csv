@@ -1,0 +1,1552 @@
+Trust_Code,Trust_Name,Region,Specialty,Reporting_Month,Patients_Waiting,Median_Wait_Weeks,Number_Waiting_Over_18_Weeks,Number_Waiting_Over_52_Weeks,RTT_18wk_Standard_Met
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,2023-08,4607,12.3,1533,224,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,2024-05,"2,190",,1022,97,No
+RXD, Kingswood NHS Foundation Trust ,South East,ENT,2023-12,5526,15.5,1582,76,No
+RXB,Eastfield General Hospitals Trust,East of England,Gen Surgery,2023-02,1480,11.9,449,77,No
+RXE,Vale of Aldern NHS Trust,West Midlands,trauma & orthopaedics,2024-12,6314,,1884,324,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,01/08/2024,2469,18.2,749,27,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma and Orthopaedics,2023-04,5342,10.7,2325,224,No
+RXF,Harborview NHS Foundation Trust,South West,ophthalmology ,Sep-23,2954,19.8,1179,137,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Cardiology,May-24,1251,14.6,505,32,No
+RXA,Northgate NHS Foundation Trust,North West,ent,2024-11,4420,11.5,1595,150,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery,2024-03,2770,13,787,75,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,01/09/2024,892,,241,27,No
+RXE,Vale of Aldern NHS Trust,West Midlands,trauma & orthopaedics,2024-02,5804,18.2,2520,484,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,2023-01,1241,13.7,462,93,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,01/02/2023,"3,798",11.1,1449,124,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2024-11,4050,14,1567,234,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,01/06/2024,4091,17.8,879,83,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology,2024-07,4297,11.9,1399,88,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,Oct-23,3767,,1688,270,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2024-08,2140,13.3,723,98,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology ,01/05/2023,2199,20.5,970,23,No
+RXB,Eastfield General Hospitals Trust,East of England, Cardiology,2023-03,1241,12.4,347,27,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,2024-02,4052,13.9,1141,133,No
+RXF, Harborview NHS Foundation Trust ,South West,Trauma & Orthopaedics,2023-03,4822,13.3,2309,98,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastro,Aug-24,3935,,1109,78,No
+RXF,Harborview NHS Foundation Trust,South West,ent,2024-08,4799,19.3,2146,272,No
+RXB,Eastfield General Hospitals Trust,East of England,Gen Surgery,2023-08,1585,14,288,4,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gen Surgery,2023-08,1064,13.9,343,64,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,01/09/2023,2797,16.6,1411,90,No
+RXF,Harborview NHS Foundation Trust,South West,Ophthalmology,01/10/2024,2590,12.8,796,30,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2023-01,710,9.3,264,20,No
+RXE,Vale of Aldern NHS Trust,West Midlands,cardiology,01/03/2023,4091,16.7,977,115,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ophthalmology ,01/08/2023,2309,19.8,972,112,No
+RXA,Northgate NHS Foundation Trust,North West,Ear Nose and Throat,Mar-23,4113,9.1,902,67,No
+RXA,Northgate NHS Foundation Trust,North West,E.N.T.,2024-10,4553,18.3,1288,87,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery,2023-12,6143,17.7,1351,-229,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology ,2023-08,3038,11.9,828,139,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery,2024-03,1178,10.6,223,9,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,ent,May-23,2979,15.5,1514,80,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2024-01,3542,15.7,1255,197,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,Dec-24,2186,18.9,613,17,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology ,01/12/2024,2851,17,633,85,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,T&O,2023-07,4018,12,1013,65,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology ,Jul-23,2483,2.7,842,97,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Opthalmology,Oct-23,2451,11.8,622,93,No
+RXC,Riverside University Hospitals Trust,London,Urology,2023-03,5823,12.7,2833,196,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology ,2023-03,2793,11.2,887,112,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,Urology,Jun-24,2918,19.4,1061,217,No
+RXA,Northgate NHS Foundation Trust,North West,Gen Surgery,01/05/2024,"1,500",12.1,706,136,No
+RXC,Riverside University Hospitals Trust,London,Urology,2024-07,6195,12,3334,402,No
+RXH,Sherbourne NHS Foundation Trust,North East,ent,2024-01,5551,12.8,1868,240,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastro,2023-11,2416,13.8,572,151,No
+RXD,Kingswood NHS Foundation Trust,South East,E.N.T.,2023-08,6004,11.2,1309,141,No
+RXB,Eastfield General Hospitals Trust,East of England,urology ,2024-02,4796,13.9,2086,359,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,2023-02,1057,13.6,514,91,No
+RXF,Harborview NHS Foundation Trust,South West,gastroenterology,2024-09,5977,14.9,2191,267,No
+RXE,Vale of Aldern NHS Trust,West Midlands, Cardiology,2024-11,4157,17.6,813,66,No
+RXA, Northgate NHS Foundation Trust ,North West,Cardiology,2023-08,5648,12,999,206,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Opthalmology,Feb-24,5507,18.1,1830,-97,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,Jan-24,6282,20.5,1215,129,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,Trauma and Orthopaedics,2024-01,5415,15.6,1144,236,No
+RXD,Kingswood NHS Foundation Trust,South East,general surgery,2024-10,5782,15.9,2193,232,No
+RXA,NORTHGATE NHS FOUNDATION TRUST,North West,Dermatology,2024-06,2472,15.4,1040,262,No
+RXA,Northgate NHS Foundation Trust,North West,T&O,2023-08,2945,10.3,1443,51,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology,2023-06,2246,15.5,606,85,No
+RXC,Riverside University Hospitals Trust,London,Urology,2024-03,5971,15.5,2275,211,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,01/04/2023,4267,10.7,1465,34,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,2024-11,2577,17.4,565,13,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,2024-02,3299,14.9,1139,79,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,01/02/2023,1798,11.3,793,88,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,01/12/2023,4146,16.3,1929,176,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ent,2023-09,2933,15.2,1050,83,No
+RXD,Kingswood NHS Foundation Trust,South East,E.N.T.,Sep-23,5711,13,2705,250,No
+RXC,Riverside University Hospitals Trust,London,Trauma & Orthopaedics,01/10/2024,4737,14.6,1691,320,No
+RXH,Sherbourne NHS Foundation Trust,North East,gastroenterology,2024-08,"1,733",8.6,531,88,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2023-09,3472,4.5,1396,65,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,2024-08,4370,13.8,1503,298,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,01/08/2024,2703,20.8,990,86,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma & Orthopaedics,01/12/2024,5652,13.9,2193,367,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery,2023-03,1109,,475,9,No
+RXB, Eastfield General Hospitals Trust ,East of England,Opthalmology,2023-01,1675,16.8,916,98,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology,2023-06,1630,13.6,580,52,No
+RXE,Vale of Aldern NHS Trust,West Midlands,dermatology,2024-06,4986,7.3,2281,254,No
+RXB,Eastfield General Hospitals Trust,East of England,E.N.T.,01/12/2024,4986,15.6,2110,242,No
+RXB,Eastfield General Hospitals Trust,East of England,Gen Surgery,Jan-24,"1,325",14,395,33,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery ,2024-08,2981,11,670,111,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,Oct-23,3220,14.1,532,93,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology,2023-06,1630,13.6,580,52,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Jul-24,"3,246",14.1,1250,223,No
+RXE,Vale of Aldern NHS Trust,West Midlands, Cardiology,May-24,4501,14.4,1927,-139,No
+RXF,Harborview NHS Foundation Trust,South West,ENT,01/11/2023,4856,5.9,1914,344,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East, Cardiology,01/06/2023,2427,8.1,730,75,No
+RXA,Northgate NHS Foundation Trust,North West,ent,2024-02,4267,16.4,1357,146,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,2024-10,6288,18.4,1506,192,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma & Orthopaedics,2023-09,1380,12.7,551,67,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,01/07/2024,3971,17.6,1102,74,No
+RXB,Eastfield General Hospitals Trust,East of England,urology ,2024-06,4659,12.2,1703,238,No
+RXC, Riverside University Hospitals Trust ,London,Dermatology,2024-07,3768,9.9,1805,362,No
+RXF, Harborview NHS Foundation Trust ,South West,Urology,Jan-23,3808,15.9,916,95,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,Oct-23,5761,10.3,2135,265,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,01/04/2024,5067,14.6,1121,141,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,Jul-23,2847,12.5,1313,176,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,01/12/2023,2760,12.3,709,130,No
+RXD,Kingswood NHS Foundation Trust,South East,trauma & orthopaedics,2023-03,4992,12.6,1550,322,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,2024-04,5990,13.7,2770,453,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,Apr-24,5406,15.3,1128,141,No
+RXB,Eastfield General Hospitals Trust,,Gen Surgery,01/06/2023,1199,14.5,505,62,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery ,2023-05,1650,12.5,764,86,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma & Orthopaedics,2023-05,911,5.6,379,102,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology ,2023-11,2410,7.1,1028,136,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2024-04,5694,7.9,2207,442,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology ,2024-11,2790,9.4,1064,115,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,2023-11,4830,15.6,2392,270,No
+RXH,Sherbourne NHS Foundation Trust,North East,ent,Oct-23,5461,13.1,808,123,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,Mar-23,3576,6.2,1767,157,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ophthalmology ,2023-07,2487,,382,32,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ear Nose and Throat,2023-01,3176,10.3,395,19,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Cardiology,Apr-24,1423,15.5,397,46,No
+RXF,Harborview NHS Foundation Trust,,Cardiology,2023-06,2212,18,763,71,No
+RXF,Harborview NHS Foundation Trust,South West,gastroenterology,2023-04,6177,11.4,2261,436,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,01/03/2024,2174,17.9,616,100,No
+RXC,Riverside University Hospitals Trust,London,Trauma and Orthopaedics,Apr-23,4531,14.1,1477,144,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery,2023-04,893,,295,28,No
+RXH,Sherbourne NHS Foundation Trust,North East,trauma & orthopaedics,2023-04,1156,10.7,427,77,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,01/09/2023,5678,11.2,1939,64,No
+RXE,Vale of Aldern NHS Trust,West Midlands,gastroenterology,01/05/2023,4156,13.9,1415,172,No
+RXE,Vale of Aldern NHS Trust,West Midlands,general surgery,2024-02,3004,17.3,1720,207,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology,2024-05,5057,10.6,1430,160,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology,2023-08,1037,17,233,20,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ent,Jun-24,3374,14.3,981,167,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2023-09,1580,14,670,104,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2024-08,2825,16,1060,193,No
+RXB,Eastfield General Hospitals Trust,East of England,trauma & orthopaedics,Feb-24,1144,13.1,457,102,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2024-02,4240,,2153,101,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma and Orthopaedics,2024-09,3972,15,836,70,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology,Aug-23,2875,12.1,640,89,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,Dec-24,1758,18.4,693,126,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,2023-12,3252,8.9,1508,105,No
+RXA,NORTHGATE NHS FOUNDATION TRUST,North West, Cardiology,Apr-23,5798,17.1,1549,157,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gen Surgery,Jan-23,2111,7.7,879,135,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,2024-03,2699,13.8,1453,162,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,2024-09,2362,12.7,824,208,No
+RXH,Sherbourne NHS Foundation Trust,North East,dermatology,2023-02,3398,15.8,1304,110,No
+RXC,Riverside University Hospitals Trust,London,Derm,2023-06,3635,14.3,1355,282,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastro,2023-12,4256,14.1,2029,124,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Nov-24,3037,16.1,1152,119,No
+RXA, Northgate NHS Foundation Trust ,North West,Dermatology,01/09/2024,2106,12.7,930,172,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,01/09/2023,5650,12.3,1885,223,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology,2023-07,2415,10.2,619,49,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,2023-09,2838,13.9,1061,184,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2023-04,3659,12.8,571,99,No
+RXF,Harborview NHS Foundation Trust,South West,gastroenterology,2024-02,5884,,2541,329,No
+RXC, Riverside University Hospitals Trust ,London,cardiology,2024-07,6389,11.5,2368,434,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,Sep-24,3812,12.9,938,150,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,Jan-24,5659,13.8,2477,197,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,Cardiology,2024-04,2353,,1057,31,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2024-10,5162,14.6,1873,169,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,Jan-23,1619,14,632,82,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,Urology,2024-01,2750,12.4,826,19,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery ,Jul-24,"5,815",14.1,2037,344,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery,2024-06,6040,13.5,2455,144,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2024-05,2788,17.6,1029,197,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology ,Dec-24,2599,14.8,1068,138,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2023-02,2972,14.9,573,79,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,Jun-23,4021,,867,83,No
+RXB,Eastfield General Hospitals Trust,East of England,trauma & orthopaedics,2024-05,1320,18.9,510,12,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,cardiology,Aug-24,2892,12.3,674,81,No
+RXH, Sherbourne NHS Foundation Trust ,North East,Urology,2024-09,4100,7.9,1759,93,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2024-10,1746,13.9,263,0,No
+RXB,Eastfield General Hospitals Trust,East of England,T&O,2023-06,1051,14.2,419,35,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology ,2024-03,651,16.8,247,33,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2023-12,3851,12.5,779,141,No
+RXB,Eastfield General Hospitals Trust,East of England,T&O,01/12/2024,965,18.7,398,24,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,2023-08,"5,688",15.8,2352,236,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2023-03,1888,6,522,78,No
+RXA,Northgate NHS Foundation Trust,North West,ENT,2024-01,4240,11.4,1327,171,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology ,2023-04,2838,7.9,1116,175,No
+RXD,Kingswood NHS Foundation Trust,South East,dermatology,2024-12,2385,14.9,912,46,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery ,2023-05,831,14.9,373,42,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,01/08/2023,2843,17.1,588,78,No
+RXA,Northgate NHS Foundation Trust,North West,dermatology,2023-12,2306,14.4,790,46,No
+RXB,Eastfield General Hospitals Trust,East of England,Opthalmology,2023-06,1905,14.3,704,73,No
+RXB,Eastfield General Hospitals Trust,East of England,general surgery,2023-03,1122,13.8,275,54,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,2024-12,2168,17.2,616,72,No
+RXC,Riverside University Hospitals Trust,London,General Surgery ,2024-07,4948,11.3,2122,220,No
+RXA, Northgate NHS Foundation Trust ,North West,Urology,2023-03,979,14.5,441,39,No
+RXC,Riverside University Hospitals Trust,London,E.N.T.,01/12/2023,3636,11.5,1397,232,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,Urology,Nov-23,2660,11.7,984,132,No
+RXF,Harborview NHS Foundation Trust,South West,Gastro,2024-01,6165,11.8,1438,263,No
+RXD,Kingswood NHS Foundation Trust,South East,general surgery,01/11/2023,5787,14,1709,177,No
+RXE,Vale of Aldern NHS Trust,West Midlands,cardiology,2023-11,3983,10.3,2240,447,No
+RXF,Harborview NHS Foundation Trust,South West,Derm,Jun-24,2641,12.6,1152,137,No
+RXC,Riverside University Hospitals Trust,London,urology ,2023-01,6047,10.6,347,67,Yes
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2023-05,1826,12.5,761,67,No
+RXA,Northgate NHS Foundation Trust,North West,Derm,01/02/2023,2714,16.3,405,74,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Derm,01/03/2023,2863,4.9,936,193,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,Apr-24,3686,13.4,1172,148,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2024-02,5920,16,3166,593,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma and Orthopaedics,2023-01,"1,022",13.8,464,53,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,Aug-24,3069,19.7,1486,16,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2023-08,5036,15.2,2025,387,No
+RXB,Eastfield General Hospitals Trust,East of England,general surgery,Jul-23,1608,10.8,480,0,No
+RXB,Eastfield General Hospitals Trust,East of England,ENT,01/08/2023,5081,10,1647,32,No
+RXA,Northgate NHS Foundation Trust,North West,E.N.T.,2024-06,4318,15,1512,250,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,01/07/2024,1949,8.4,395,14,No
+RXB, Eastfield General Hospitals Trust ,East of England,Gastro,2024-02,793,13,294,32,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,Jan-24,2839,15.1,993,108,No
+RXA,Northgate NHS Foundation Trust,North West,T&O,2023-04,2776,13.7,1495,195,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,General Surgery,01/12/2024,3058,15.2,1435,251,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,2023-12,5786,14.9,2674,89,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,2023-06,2369,11,397,54,No
+RXB,Eastfield General Hospitals Trust,East of England,General Surgery,2024-07,1570,15,274,12,No
+RXA,Northgate NHS Foundation Trust,North West,gastroenterology,01/07/2023,5704,14.3,3069,616,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma & Orthopaedics,2024-05,3166,15.8,730,116,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,2023-06,1119,13.6,298,74,No
+RXD,Kingswood NHS Foundation Trust,South East,E.N.T.,2023-03,5746,11.1,1438,228,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,2024-06,5777,,2444,223,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,01/04/2024,5322,13.8,2723,379,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery ,Jan-24,3108,14.1,564,0,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology,Dec-23,6160,13.4,1880,112,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2023-01,2528,13.7,1084,97,No
+RXC,Riverside University Hospitals Trust,London, Cardiology,Aug-24,6103,11.3,2248,331,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,2024-10,2858,7.9,1776,184,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,Sep-24,5834,14.3,2058,213,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2024-07,2683,16,928,13,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,dermatology,01/11/2023,3087,14,1217,111,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,2024-12,2470,16.2,827,36,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,Ophthalmology,2024-02,2367,14.6,1092,87,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2023-07,4252,10.1,1092,231,No
+RXF,Harborview NHS Foundation Trust,South West,dermatology,2023-04,3045,13.2,1027,182,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma & Orthopaedics,2023-07,4589,10.4,1170,126,No
+RXC,Riverside University Hospitals Trust,London,trauma & orthopaedics,Jun-24,4535,17.8,1344,226,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2023-01,2594,15.5,1319,219,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery ,2023-04,1557,12.1,579,42,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,Feb-23,3940,13.9,1130,195,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,2023-01,1644,13.6,843,223,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,01/09/2023,"2,750",14,874,161,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology,Jan-24,2521,11,1265,254,No
+RXA, Northgate NHS Foundation Trust ,North West,general surgery,01/07/2023,1730,9.6,801,114,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,Apr-24,3915,11.7,1235,182,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Gastro,01/10/2024,807,17.9,232,34,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,Gastroenterology,01/01/2023,2210,3,732,16,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,2024-09,2656,18.5,754,111,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology,2024-08,859,17,498,91,No
+RXA,Northgate NHS Foundation Trust,North West,Gastro,2023-05,5827,9.2,3464,442,No
+RXB,Eastfield General Hospitals Trust,East of England,dermatology,2024-05,2307,14.2,903,102,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2024-05,5925,12.8,2054,179,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,Jan-24,2094,11.1,674,72,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,Nov-23,3543,17.7,1465,317,No
+RXF,Harborview NHS Foundation Trust,South West,ophthalmology ,2023-07,3177,12.7,526,91,No
+RXC,Riverside University Hospitals Trust,London,Urology,Oct-24,6382,19.6,2851,246,No
+RXH,Sherbourne NHS Foundation Trust,North East,T&O,2024-06,956,11.7,365,70,No
+RXH, Sherbourne NHS Foundation Trust ,North East,General Surgery ,2024-01,1094,15,528,30,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,2024-05,5865,14.5,2354,452,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ophthalmology ,2023-10,5353,9.6,2029,487,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,Oct-23,3713,18.7,1184,199,No
+RXE,Vale of Aldern NHS Trust,West Midlands,urology ,2024-10,3097,14.4,959,260,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology ,01/01/2023,5669,9.1,1732,247,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology,Jun-24,2350,18.4,653,107,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,01/03/2024,1172,17.6,708,42,No
+RXC,RIVERSIDE UNIVERSITY HOSPITALS TRUST,London,trauma & orthopaedics,01/09/2023,"4,544",12.4,1856,169,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East, Cardiology,01/04/2024,2801,13.3,1493,252,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,2024-05,4709,11,1110,168,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,2023-10,4706,17.7,2043,200,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2023-11,2922,18.1,807,16,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology,2023-07,2415,10.2,619,49,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery,2023-02,"1,350",10.7,525,33,No
+RXF,Harborview NHS Foundation Trust,South West,urology ,01/07/2023,3471,10.7,1595,232,No
+RXC,Riverside University Hospitals Trust,London,cardiology,2024-02,6079,10.9,1515,197,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastro,2024-08,2510,16.9,1220,110,No
+RXE,Vale of Aldern NHS Trust,West Midlands,gastroenterology,01/04/2023,4364,11.5,1946,299,No
+RXH,Sherbourne NHS Foundation Trust,North East,E.N.T.,2023-06,5541,17,1642,122,No
+RXD,Kingswood NHS Foundation Trust,South East, Cardiology,2024-05,2621,15.5,1020,4,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2023-03,4918,15.7,2033,301,No
+RXD,Kingswood NHS Foundation Trust,South East,Derm,2024-02,2280,14.9,452,74,No
+RXC,Riverside University Hospitals Trust,London,Dermatology ,Dec-23,3374,9.6,1092,46,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,Aug-24,468,13.8,114,1,No
+RXC,Riverside University Hospitals Trust,London,Urology,2024-02,6033,16.8,1889,174,No
+RXD,Kingswood NHS Foundation Trust,South East,trauma & orthopaedics,2024-05,5311,8.9,2705,220,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,01/01/2023,4097,14.6,1233,102,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,2023-10,2193,8.7,475,64,No
+RXB,Eastfield General Hospitals Trust,,ENT,Sep-23,5041,15.1,1520,325,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,01/07/2023,"2,307",3.4,856,77,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma & Orthopaedics,2023-06,4863,12.9,1146,206,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2024-01,988,11.1,416,16,No
+RXD,Kingswood NHS Foundation Trust,South East,Derm,Aug-23,2456,,309,0,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Opthalmology,2023-04,2342,10.6,765,91,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2024-10,2337,12.1,1032,189,No
+RXC,Riverside University Hospitals Trust,London,urology ,2023-11,6119,13.1,1575,220,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,general surgery,2024-08,5844,17.3,1790,42,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2024-07,838,13.9,324,18,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,2024-10,2954,11.2,871,50,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery ,01/01/2024,5524,14.8,2738,82,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery ,2023-07,657,13.2,215,39,No
+RXC,Riverside University Hospitals Trust,London,ENT,01/11/2023,3422,16.5,1175,99,No
+RXE,Vale of Aldern NHS Trust,West Midlands, Cardiology,2023-06,4015,8.9,1498,111,No
+RXF,Harborview NHS Foundation Trust,South West,cardiology,2023-08,2260,11.1,383,57,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2024-11,5941,17.4,1936,188,No
+RXH,Sherbourne NHS Foundation Trust,North East,dermatology,2023-06,3581,13.9,1822,156,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,Mar-24,4305,16.4,1718,215,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,01/06/2023,4426,14.4,1444,272,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,dermatology,2024-03,2865,17,1185,174,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,2023-05,2753,16.7,795,119,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,Dec-23,5635,11.5,3372,658,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,cardiology,2023-03,2933,12.8,1210,125,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,01/06/2024,2228,13.7,989,184,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,dermatology,01/03/2024,3079,13.2,1069,221,No
+RXA,Northgate NHS Foundation Trust,North West,Dermatology,01/04/2023,2088,12.4,601,26,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma and Orthopaedics,2023-12,4214,10.8,1022,159,No
+RXB,Eastfield General Hospitals Trust,East of England,E.N.T.,2023-04,5328,10.4,2789,367,No
+RXE,Vale of Aldern NHS Trust,West Midlands,gastroenterology,2024-10,4213,15.2,2477,321,No
+RXF,Harborview NHS Foundation Trust,South West,gastroenterology,Aug-24,6208,16.9,1674,94,No
+RXF,Harborview NHS Foundation Trust,South West,Gastro,2024-10,"6,291",13,1518,182,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma and Orthopaedics,2024-04,1324,,531,55,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,2024-05,4246,12,1832,218,No
+RXF,Harborview NHS Foundation Trust,South West,T&O,01/04/2024,4717,14.6,1476,35,No
+RXF,Harborview NHS Foundation Trust,South West,T&O,01/05/2023,4707,15.8,787,101,No
+RXE,Vale of Aldern NHS Trust,West Midlands, Cardiology,01/10/2024,3970,15.3,2142,135,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology ,01/07/2023,3166,,1245,119,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology ,01/07/2023,1867,14.8,587,69,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma & Orthopaedics,01/08/2024,1042,15.2,364,68,No
+RXB,Eastfield General Hospitals Trust,East of England,ENT,2024-11,4845,14.7,1661,195,No
+RXA, Northgate NHS Foundation Trust ,North West,Ear Nose and Throat,2023-10,4180,14.9,1299,190,No
+RXB,Eastfield General Hospitals Trust,East of England,ent,2023-10,"4,791",9,1784,326,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma and Orthopaedics,01/05/2023,2845,12.4,449,53,No
+RXD,Kingswood NHS Foundation Trust,South East,Derm,2023-02,2641,10.6,734,77,No
+RXA,Northgate NHS Foundation Trust,North West,general surgery,2024-08,1307,14,449,79,No
+RXH,Sherbourne NHS Foundation Trust,North East,T&O,2023-03,1079,12,342,41,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2024-11,1812,16.1,713,91,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,Jun-23,6367,15.1,3326,533,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology ,01/12/2024,"3,052",16.6,1225,119,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,2023-08,6166,10.8,1478,233,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,2024-09,6519,15.3,2582,449,No
+RXB,Eastfield General Hospitals Trust,East of England,general surgery,2024-08,1853,12,492,58,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology ,2024-12,2117,15.5,429,34,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,2024-07,4078,9.1,1087,38,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,01/03/2024,2844,18.4,1161,107,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,E.N.T.,Mar-24,2002,17.3,690,103,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,Mar-24,4474,11.6,2386,371,No
+RXC,Riverside University Hospitals Trust,London,Derm,2023-01,3237,11.8,1544,243,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,cardiology,2023-10,2899,13.3,657,4,No
+RXD,Kingswood NHS Foundation Trust,South East,cardiology,Jun-24,2516,17.1,868,30,No
+RXA,Northgate NHS Foundation Trust,North West,Ear Nose and Throat,2023-04,3888,8.9,1535,348,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology ,Nov-24,2801,18.2,1081,25,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,2024-03,5395,7.6,2041,271,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery ,2024-05,5645,15.9,2298,267,No
+RXA,Northgate NHS Foundation Trust,North West,E.N.T.,Nov-23,4461,11.3,1513,137,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,general surgery,Nov-24,2164,14.8,699,67,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology ,2024-09,486,15.2,258,40,No
+RXF,Harborview NHS Foundation Trust,South West,general surgery,01/02/2024,5714,,1271,181,No
+RXA,Northgate NHS Foundation Trust,North West,ent,01/01/2023,3937,10.6,1138,81,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology,Jan-24,2653,12.8,1030,73,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,May-24,2864,16.4,887,149,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma & Orthopaedics,2024-07,"3,043",15.9,1315,307,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Oct-23,2708,14,1417,175,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,2023-07,3401,11.3,579,121,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,2024-12,744,12.5,230,16,No
+RXH,Sherbourne NHS Foundation Trust,North East,general surgery,01/11/2024,1369,14.7,436,2,No
+RXE,Vale of Aldern NHS Trust,West Midlands,T&O,2024-03,5991,11.1,2564,211,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,Sep-24,3657,13.9,1320,125,No
+RXA,Northgate NHS Foundation Trust,North West,Dermatology ,Jul-23,2441,18.2,1157,132,No
+RXD,Kingswood NHS Foundation Trust,South East,dermatology,2024-09,2442,13.6,637,112,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology ,2023-10,5174,16.3,1178,261,No
+RXD,Kingswood NHS Foundation Trust,South East,trauma & orthopaedics,Nov-23,5517,12.8,2962,2,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastro,May-24,2181,16.8,816,102,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,01/04/2024,3130,17.6,955,41,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology ,May-24,958,16.6,235,35,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Dermatology,Jan-23,2495,17.7,879,0,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology,01/08/2023,5102,,1903,153,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2023-05,5008,15.3,1608,336,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,2024-02,2955,13.1,798,103,No
+RXH, Sherbourne NHS Foundation Trust ,North East,Dermatology ,2023-08,3369,14,842,127,No
+RXB,Eastfield General Hospitals Trust,,Cardiology,2024-02,1217,9.3,466,79,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,ophthalmology ,2024-07,4689,11.4,958,222,No
+RXA, Northgate NHS Foundation Trust ,North West, Cardiology,2024-12,5894,14.4,2191,382,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Opthalmology,2024-12,1919,17,853,68,No
+RXC,Riverside University Hospitals Trust,London,urology ,Nov-24,6122,15.3,2403,261,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ear Nose and Throat,Oct-23,1946,17,872,31,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology ,2024-05,5826,14.7,1660,260,No
+RXH,Sherbourne NHS Foundation Trust,North East,T&O,2024-07,775,15,199,35,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology ,2023-04,966,12.7,360,33,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,01/03/2024,2813,11.1,1263,183,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma and Orthopaedics,2023-07,2815,9.4,1306,-215,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2024-06,4010,16.9,721,83,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,Trauma & Orthopaedics,2024-02,1118,14.5,536,147,No
+RXB,Eastfield General Hospitals Trust,East of England,Gen Surgery,2023-10,1341,10.2,210,9,No
+RXC, Riverside University Hospitals Trust ,London,Gastro,2023-02,3005,12.8,1304,108,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,2024-07,2672,13.5,1098,18,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,Jun-24,2513,17.7,497,0,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2024-07,5010,15.1,1616,97,No
+RXA,Northgate NHS Foundation Trust,North West,E.N.T.,01/05/2024,4462,16.2,1346,0,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ear Nose and Throat,Apr-23,2689,10.4,691,72,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery ,01/06/2023,5829,12.5,2537,248,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2023-11,756,13.5,259,0,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2023-09,1950,15.5,605,62,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma & Orthopaedics,2024-01,929,10.3,412,70,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,01/07/2024,2690,20.7,1089,302,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2023-09,4125,15.2,1155,137,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,Dec-24,2593,18.7,1310,0,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastro,2023-03,835,12.5,299,66,No
+RXA,Northgate NHS Foundation Trust,North West,Gastro,Jul-24,5651,18,2682,0,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery,01/07/2024,1007,,370,37,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,Jan-23,4998,14.8,2092,0,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,2023-02,5069,13.5,1591,429,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2024-03,5066,14.2,2032,139,No
+RXH,Sherbourne NHS Foundation Trust,North East,ent,2023-07,5390,13,2522,605,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology ,2024-04,2745,11.1,1065,0,No
+RXH, Sherbourne NHS Foundation Trust ,North East,ophthalmology ,2023-07,4728,5.7,1499,27,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,01/09/2024,"2,044",22,822,108,No
+RXC,Riverside University Hospitals Trust,London,ophthalmology ,01/05/2024,2829,12.7,558,75,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2024-08,1827,16.6,395,38,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology ,2024-05,2445,,812,130,No
+RXF,Harborview NHS Foundation Trust,South West,trauma & orthopaedics,Jan-23,4598,16,733,34,No
+RXB,Eastfield General Hospitals Trust,East of England,General Surgery,Jun-24,1620,16.3,655,121,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,01/03/2023,5224,12.6,1991,287,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2023-03,5010,13.2,2316,476,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,Feb-23,5641,13.1,2829,392,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2024-08,1952,10.6,592,55,No
+RXF,Harborview NHS Foundation Trust,South West,Gastro,2023-06,5904,9,1388,169,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ear Nose and Throat,May-24,5460,7.2,1164,62,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology ,2024-02,2715,10.9,621,86,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,2024-01,1939,15.1,725,141,No
+RXG,Meadowbrook University Hospitals Trust,,ophthalmology ,01/11/2024,5597,19.8,2278,167,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,2023-02,2356,11.8,1156,105,No
+RXE,Vale of Aldern NHS Trust,West Midlands,dermatology,Jun-23,5099,12.4,1911,164,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,2024-09,3114,13.8,977,0,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2024-09,3475,13,1946,203,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,2024-10,1963,15.9,836,140,No
+RXC,Riverside University Hospitals Trust,London,T&O,2024-05,4733,13.6,2006,314,No
+RXD,Kingswood NHS Foundation Trust,South East,cardiology,Apr-23,2474,14.9,857,126,No
+RXD,Kingswood NHS Foundation Trust,South East,urology ,Aug-23,1851,11.3,431,0,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,01/04/2023,4117,14.3,860,121,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2023-02,4964,12.4,1892,263,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,Apr-24,5281,8,1735,204,No
+RXH,Sherbourne NHS Foundation Trust,North East,general surgery,Feb-24,898,7.2,393,60,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology ,Feb-23,4168,12.7,1351,131,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,2024-12,2664,13.3,879,85,No
+RXA,Northgate NHS Foundation Trust,North West,Dermatology ,2024-01,2586,15.2,760,159,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,T&O,01/02/2023,4402,8.5,1010,64,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology,2024-06,861,14.6,293,33,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2023-01,3775,10.9,1680,348,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastro,2023-10,2672,16.8,631,65,No
+RXA,Northgate NHS Foundation Trust,North West,dermatology,2024-12,2631,15.3,943,59,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2023-04,2828,8.8,848,96,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology ,01/12/2023,2457,25.4,347,77,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ophthalmology ,2023-06,2377,10.4,976,147,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,01/09/2024,4432,17.7,942,132,No
+RXB, Eastfield General Hospitals Trust ,East of England,Urology,Sep-24,4958,9.2,1497,243,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,2024-06,5518,15.6,1900,184,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,01/02/2023,1258,10.9,455,69,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology ,Mar-23,2541,13.1,797,74,No
+RXC,Riverside University Hospitals Trust,London, Cardiology,2023-11,6392,12.1,2619,180,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2024-11,"2,999",14.3,1174,245,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,Sep-23,5727,13.7,2074,363,No
+RXC,RIVERSIDE UNIVERSITY HOSPITALS TRUST,London,Ophthalmology,01/03/2023,2720,11,965,106,No
+RXC,Riverside University Hospitals Trust,London,Urology,May-24,6338,4.2,2721,290,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology,2024-11,2670,18.9,852,154,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,general surgery,2024-05,2005,17.2,533,69,No
+RXF,Harborview NHS Foundation Trust,South West,trauma & orthopaedics,2023-08,4718,9.2,1149,90,No
+RXC,Riverside University Hospitals Trust,London,general surgery,2024-12,4917,17.1,1865,215,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology ,Dec-23,3029,15.2,739,116,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,2024-01,4030,11,1910,183,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,01/02/2024,2508,8.6,857,60,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2023-09,"4,118",,1903,272,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,Nov-23,6022,13.7,1330,56,No
+RXD, Kingswood NHS Foundation Trust ,South East,cardiology,Aug-23,2602,11.1,597,34,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,Aug-23,779,17.9,320,15,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery ,Aug-23,1548,9.6,629,48,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery ,2024-06,2582,16.9,907,55,No
+RXH,Sherbourne NHS Foundation Trust,North East,trauma & orthopaedics,2024-09,1386,11.6,353,49,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology,2024-02,5008,13.3,2208,215,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2023-09,5869,16.5,1060,224,No
+RXF,Harborview NHS Foundation Trust,South West,Ear Nose and Throat,Apr-23,5039,10.6,1659,159,No
+RXB,Eastfield General Hospitals Trust,East of England,ent,01/11/2023,5220,12.1,2390,281,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,May-24,1991,6.3,734,41,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2023-06,1785,13.6,468,24,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,May-24,3442,18.9,1662,331,No
+RXB,Eastfield General Hospitals Trust,East of England,trauma & orthopaedics,2024-11,950,11.9,338,24,No
+RXB,Eastfield General Hospitals Trust,East of England,gastroenterology,Dec-24,924,14.2,347,12,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,Jul-23,3933,11.1,2128,391,No
+RXB,Eastfield General Hospitals Trust,East of England,T&O,2023-12,1166,14.4,368,78,No
+RXD,Kingswood NHS Foundation Trust,South East,Ear Nose and Throat,2023-10,5817,13.5,2529,0,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery ,Sep-24,6123,19.1,1351,218,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,2024-09,5958,17.9,1506,187,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology ,2023-12,2333,8.4,651,111,No
+RXA,Northgate NHS Foundation Trust,North West,gastroenterology,Mar-23,5809,17.9,1583,71,No
+RXC, Riverside University Hospitals Trust ,London,ent,2023-08,3502,13.4,1055,175,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology,Jan-24,3294,15.1,1218,226,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,Gen Surgery,2023-03,5756,16,1924,167,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2023-06,942,9.8,327,45,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma & Orthopaedics,01/08/2023,871,15.7,253,15,No
+RXE,Vale of Aldern NHS Trust,West Midlands,general surgery,Nov-23,2778,10.1,1102,269,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma and Orthopaedics,2024-11,3019,12.7,733,109,No
+RXD, Kingswood NHS Foundation Trust ,South East,Dermatology ,2024-08,2302,15.5,1168,209,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,Urology,01/03/2023,"2,635",14.6,929,71,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2024-06,3265,11.7,1308,192,No
+RXA,Northgate NHS Foundation Trust,North West,gastroenterology,2023-04,5499,16.9,2284,266,No
+RXC,Riverside University Hospitals Trust,London,trauma & orthopaedics,01/07/2023,4523,12.8,1174,163,No
+RXA,Northgate NHS Foundation Trust,North West,Gastro,2023-10,5856,12.1,1456,30,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,2023-11,1132,12,271,12,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber, Cardiology,2023-02,2819,12.3,779,92,No
+RXC,Riverside University Hospitals Trust,London,Trauma & Orthopaedics,01/08/2024,4711,13.9,2025,46,No
+RXA,Northgate NHS Foundation Trust,North West,Gastro,2024-09,5920,20.3,2625,515,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2023-03,2521,9.9,1108,90,No
+RXE,Vale of Aldern NHS Trust,West Midlands,dermatology,2024-03,5197,11,2317,325,No
+RXF,Harborview NHS Foundation Trust,South West,T&O,2024-02,4470,11.6,1097,156,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,2024-01,2925,11.2,1670,239,No
+RXH,Sherbourne NHS Foundation Trust,North East,dermatology,Feb-24,3378,11.4,1918,252,No
+RXF,Harborview NHS Foundation Trust,South West,E.N.T.,01/10/2024,4884,17.7,2311,324,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,gastroenterology,May-24,2589,11.4,1267,155,No
+RXC,Riverside University Hospitals Trust,London,general surgery,Mar-23,4482,9.1,1706,191,No
+RXB,Eastfield General Hospitals Trust,East of England,T&O,01/08/2024,1107,14.6,487,95,No
+RXA,Northgate NHS Foundation Trust,North West,Derm,Mar-23,2508,,522,81,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,2024-12,4317,12.2,1658,190,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma & Orthopaedics,2024-10,2920,19.5,944,267,No
+RXB,Eastfield General Hospitals Trust,East of England,urology ,2024-11,4862,17.7,2222,169,No
+RXE,Vale of Aldern NHS Trust,West Midlands,dermatology,2023-12,5066,15.7,2711,279,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2024-11,627,15.4,299,48,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2023-12,2642,19.1,1064,131,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,Sep-23,5316,,2282,215,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery,2023-02,5833,16.8,1729,30,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,2024-08,"5,901",14.7,2021,222,No
+RXD,Kingswood NHS Foundation Trust,South East,urology ,01/12/2023,1966,16.6,793,134,No
+RXB,Eastfield General Hospitals Trust,East of England,Ear Nose and Throat,01/04/2024,5048,5.7,2346,36,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,2024-08,3985,17.2,1331,51,No
+RXF,Harborview NHS Foundation Trust,South West,ENT,2024-09,4775,9.9,1826,205,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,2024-01,5923,7.8,2233,409,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,Opthalmology,2023-07,5288,11.7,1899,-330,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,2023-01,5004,8.6,1615,280,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2023-11,4807,12.6,1260,210,No
+RXH,Sherbourne NHS Foundation Trust,North East, Cardiology,2024-03,5425,14.9,1880,51,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,01/08/2024,3447,17.3,1535,296,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,01/08/2023,2500,13.4,1190,82,No
+RXC,Riverside University Hospitals Trust,London,T&O,2024-04,4686,14.8,1972,185,No
+RXB,Eastfield General Hospitals Trust,East of England,gastroenterology,2023-12,976,13,283,12,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology,2024-11,5191,13.6,2247,391,No
+RXC,Riverside University Hospitals Trust,London,Trauma and Orthopaedics,2024-02,4578,11,2109,237,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,01/04/2024,3695,11.5,892,90,No
+RXD,Kingswood NHS Foundation Trust,South East,Ear Nose and Throat,2024-02,5925,17.8,2459,127,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery ,Oct-23,2230,13.5,476,77,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery ,Nov-24,2835,,1115,159,No
+RXE,Vale of Aldern NHS Trust,West Midlands,cardiology,Apr-24,4229,13.6,1131,86,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma & Orthopaedics,2023-07,5279,4.8,2093,419,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,01/03/2023,5345,13.7,1816,323,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,2023-09,1350,19.8,397,15,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,2023-12,2163,15.9,756,141,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,01/08/2024,5842,8.3,2542,154,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology,2024-04,1680,14,562,31,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ent,2023-06,3322,10.4,1220,183,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,Jan-24,2653,11.2,944,141,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2024-02,3296,19.2,1106,109,No
+RXC,Riverside University Hospitals Trust,London,ENT,01/07/2024,3632,11.5,1347,297,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,Dec-23,3059,15.8,1023,69,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,Jul-24,5421,13.1,1692,127,No
+RXD,Kingswood NHS Foundation Trust,South East,cardiology,Sep-24,2818,14.2,917,93,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastro,01/09/2024,2701,16.3,807,98,No
+RXC,RIVERSIDE UNIVERSITY HOSPITALS TRUST,London,Dermatology,01/11/2023,3453,11.3,945,121,No
+RXC,Riverside University Hospitals Trust,London, Cardiology,2023-03,6196,12.7,2917,98,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ear Nose and Throat,Apr-24,3227,11.8,1096,99,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,2024-10,3097,18.6,796,98,No
+RXD,Kingswood NHS Foundation Trust,South East,urology ,01/03/2023,1818,13.9,674,147,No
+RXC,Riverside University Hospitals Trust,London,General Surgery ,Apr-23,4463,12,1771,415,No
+RXB,Eastfield General Hospitals Trust,East of England,general surgery,2023-11,1355,,451,31,No
+RXC,Riverside University Hospitals Trust,London,cardiology,2024-11,6358,14.1,2478,320,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Opthalmology,Apr-23,5218,13.8,1700,309,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ent,2023-05,2019,11.5,979,193,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,2024-05,4278,15.3,1631,260,No
+RXA, Northgate NHS Foundation Trust ,North West, Cardiology,2024-02,5937,13.1,3298,332,No
+RXA,Northgate NHS Foundation Trust,North West,dermatology,01/11/2024,"2,310",16.5,960,62,No
+RXD,Kingswood NHS Foundation Trust,South East,ent,01/03/2024,5752,14.1,2357,377,No
+RXF,Harborview NHS Foundation Trust,South West,E.N.T.,2023-08,4961,12.8,1625,12,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2024-03,5933,10.8,3603,445,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,01/06/2024,"5,231",12.4,1419,227,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma & Orthopaedics,2024-01,952,14.3,209,24,No
+RXC,Riverside University Hospitals Trust,London,urology ,01/08/2024,6535,20.6,1125,90,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,2024-09,1954,17.7,739,82,No
+RXD, Kingswood NHS Foundation Trust ,South East,Urology,2023-04,1576,13.3,440,27,No
+RXB, Eastfield General Hospitals Trust ,East of England,General Surgery ,Nov-24,1542,16.7,576,79,No
+RXD,Kingswood NHS Foundation Trust,South East,general surgery,2023-06,"5,768",9.9,2217,-259,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,urology ,Aug-24,3072,17.1,665,45,No
+RXH,Sherbourne NHS Foundation Trust,North East,ophthalmology ,2023-09,4352,11.4,976,126,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,Apr-23,"3,343",,1722,271,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology,2024-07,2800,17.1,1108,53,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,Oct-24,3330,19.7,717,48,No
+RXH, Sherbourne NHS Foundation Trust ,North East,Cardiology,2023-10,5611,12.3,2204,369,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,General Surgery,01/08/2023,2568,13.1,593,69,No
+RXC, Riverside University Hospitals Trust ,London,T&O,2024-09,4575,11.8,2036,453,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,01/09/2023,5443,10.2,1889,209,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery,01/07/2023,2578,7.7,882,101,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology ,01/03/2024,2604,13.9,1332,284,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology,2024-11,5852,17.4,2105,209,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Opthalmology,2024-05,5474,15.3,1678,203,No
+RXE, Vale of Aldern NHS Trust ,West Midlands,Gastroenterology ,01/04/2024,4000,14.3,1434,386,No
+RXD,Kingswood NHS Foundation Trust,South East,ENT,Jul-24,5684,13.3,2157,318,No
+RXE,Vale of Aldern NHS Trust,West Midlands,cardiology,Aug-24,4342,17.1,1091,112,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,2024-04,3638,14.6,664,43,No
+RXF,Harborview NHS Foundation Trust,South West,trauma & orthopaedics,2024-09,"4,550",16.7,1897,250,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology ,2024-01,2330,14.7,804,76,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,2023-07,3718,16.5,1657,203,No
+RXC,Riverside University Hospitals Trust,London,Derm,2024-01,3441,10,913,149,No
+RXC,Riverside University Hospitals Trust,London,Urology,Dec-23,6283,14.6,1666,253,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,Dermatology ,2023-01,3077,12.7,834,30,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2023-09,1824,13.8,528,53,No
+RXE, Vale of Aldern NHS Trust ,West Midlands,Urology,2023-03,2973,12.1,1273,299,No
+RXA,Northgate NHS Foundation Trust,North West,Dermatology,Aug-24,2275,15,851,23,No
+RXE,Vale of Aldern NHS Trust,West Midlands,general surgery,Apr-24,2817,11.7,515,66,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,2024-09,5569,20.5,1807,180,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,01/07/2024,3107,14.9,1355,24,No
+RXC,Riverside University Hospitals Trust,London,Trauma & Orthopaedics,2024-12,"4,819",18.5,383,61,Yes
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology ,2023-07,5040,15,2082,323,No
+RXF,Harborview NHS Foundation Trust,South West,urology ,2024-05,3489,19.4,922,112,No
+RXF,Harborview NHS Foundation Trust,South West,dermatology,2023-06,2800,,1067,26,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,Oct-23,4433,15.4,2399,0,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,01/05/2024,2621,18.7,758,128,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,2024-12,5219,13.9,2331,185,No
+RXD,Kingswood NHS Foundation Trust,South East,gastroenterology,01/02/2024,2556,13.5,406,27,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma and Orthopaedics,2023-12,5451,11.1,1639,252,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,2023-05,5496,15.8,2511,326,No
+RXH,Sherbourne NHS Foundation Trust,North East,E.N.T.,01/07/2024,5440,16.8,2019,201,No
+RXF,Harborview NHS Foundation Trust,South West,Derm,Feb-23,3088,15.9,774,135,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gen Surgery,2023-10,2797,10.9,1057,149,No
+RXA,Northgate NHS Foundation Trust,North West,Derm,01/09/2023,2544,15.5,893,60,No
+RXA,Northgate NHS Foundation Trust,North West,general surgery,2023-09,1392,12.1,422,52,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,2024-12,969,9,376,101,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,gastroenterology,2023-02,2730,10.4,855,169,No
+RXC,Riverside University Hospitals Trust,London,Dermatology,01/11/2024,4005,12.6,1119,138,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gen Surgery,2023-06,780,18.1,204,6,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology ,2024-12,3891,21.8,2008,266,No
+RXB, Eastfield General Hospitals Trust ,East of England,General Surgery ,2024-03,1550,10.6,665,121,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology,2024-03,3287,17,1232,177,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology,2023-05,4932,14.8,1330,75,No
+RXE,Vale of Aldern NHS Trust,West Midlands,trauma & orthopaedics,May-23,5824,13,1908,291,No
+RXB,Eastfield General Hospitals Trust,East of England,General Surgery ,01/12/2023,1884,11.7,879,190,No
+RXA,Northgate NHS Foundation Trust,North West,ent,2023-07,4125,11.7,2223,176,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2024-11,3582,16,1594,241,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,2023-09,6081,16.3,1648,151,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,2024-01,"2,976",12.3,804,112,No
+RXF,Harborview NHS Foundation Trust,South West,T&O,01/05/2024,"4,663",15.8,1568,224,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,01/10/2024,721,13.2,300,54,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,01/01/2024,5787,13.6,1388,-207,No
+RXC,Riverside University Hospitals Trust,London,Gastro,01/10/2023,3007,18,1238,133,No
+RXC,Riverside University Hospitals Trust,London,dermatology,2024-06,3746,13.2,1367,166,No
+RXD,Kingswood NHS Foundation Trust,South East,Ear Nose and Throat,Nov-24,5554,12.9,1738,61,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,2024-11,2828,16.6,992,161,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery ,2024-11,1597,16.4,324,56,No
+RXB, Eastfield General Hospitals Trust ,East of England,Urology,2024-05,4986,16,1400,0,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,E.N.T.,Feb-24,2133,,816,29,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery ,2024-07,5864,14.2,2184,213,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,2024-05,951,14.4,432,18,No
+RXB,Eastfield General Hospitals Trust,East of England,general surgery,Feb-24,1667,12.1,500,54,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2024-10,4323,18.1,1833,382,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma & Orthopaedics,2023-09,1051,16.6,308,50,No
+RXH, Sherbourne NHS Foundation Trust ,North East,General Surgery,01/12/2024,1153,10.2,390,69,No
+RXF,Harborview NHS Foundation Trust,South West,Gastro,2023-02,5505,17.6,2386,23,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastro,2023-03,3994,15.1,1116,147,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,2023-12,2609,12.8,949,52,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,01/09/2023,2992,8.9,899,35,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,Jan-24,6010,10.4,2595,550,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gen Surgery,01/09/2024,1243,10.4,387,46,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2024-02,3687,20.4,1174,74,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,01/06/2023,4384,12.9,2235,153,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,2024-09,4375,9.6,694,98,No
+RXC,Riverside University Hospitals Trust,London,Urology,01/04/2024,6021,19.9,975,-145,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,Ophthalmology,01/12/2023,2871,11,1291,132,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,Jul-23,1885,15.2,817,187,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,dermatology,2024-10,2704,12.5,782,128,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology,2023-01,5933,7.5,1492,231,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2023-04,3821,15.9,1930,180,No
+RXF,Harborview NHS Foundation Trust,South West,Ear Nose and Throat,2024-03,5030,11.2,1224,151,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,2023-07,"1,822",14,572,117,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,2023-06,4304,15.6,1703,158,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,2024-12,4012,14.2,1606,328,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,2024-06,2038,18.9,1024,117,No
+RXC,Riverside University Hospitals Trust,London,Urology,01/09/2023,5963,10.1,2979,267,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,2024-11,3413,17,675,151,No
+RXF,Harborview NHS Foundation Trust,South West,Gastro,Jun-24,"5,996",13.8,1223,13,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gen Surgery,May-23,2657,16.2,1122,142,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Opthalmology,01/09/2024,5638,14,1751,118,No
+RXB, Eastfield General Hospitals Trust ,East of England,Ear Nose and Throat,Jul-23,5255,14.2,1859,236,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2023-02,2131,14.4,837,68,No
+RXF,Harborview NHS Foundation Trust,South West,dermatology,2023-01,2921,12.7,382,38,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2024-02,2985,8.5,993,53,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,01/10/2024,4214,12,1115,171,No
+RXH,Sherbourne NHS Foundation Trust,North East,ophthalmology ,01/03/2023,4152,12.9,1214,100,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,general surgery,2024-10,2881,14.2,1218,98,No
+RXA,Northgate NHS Foundation Trust,North West,dermatology,01/11/2023,"2,705",7.7,567,75,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,gastroenterology,2023-01,2273,14.2,1032,51,No
+RXA, Northgate NHS Foundation Trust ,North West,T&O,2023-01,2675,11,831,26,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,2023-08,6040,16.2,998,64,No
+RXC,Riverside University Hospitals Trust,London,Gen Surgery,2023-08,4649,16.4,1235,222,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,Gastroenterology,2023-08,5892,12,1865,288,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,01/01/2023,5754,15.8,2235,440,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,01/09/2024,5948,15.8,2150,250,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ent,01/10/2024,3386,13.5,1614,214,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma and Orthopaedics,2023-02,2831,12.9,992,105,No
+RXA,Northgate NHS Foundation Trust,North West,gastroenterology,Dec-23,5867,18.7,1901,56,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology,01/10/2023,3365,9.8,802,65,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery,Jan-23,2527,11.1,707,39,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastro,2024-11,3664,8.2,1511,299,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,Mar-24,2997,14.6,1079,-167,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery,2024-05,5642,15.9,1903,134,No
+RXD, Kingswood NHS Foundation Trust ,South East,Dermatology ,2024-03,2295,10.7,699,136,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,01/07/2023,1540,10.9,361,22,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,general surgery,01/04/2023,2351,,841,99,No
+RXD,Kingswood NHS Foundation Trust,South East,Derm,2024-11,2050,14.1,921,84,No
+RXC,Riverside University Hospitals Trust,,ent,01/02/2024,3579,15.6,1545,73,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,01/10/2023,2521,14.2,465,29,No
+RXH,Sherbourne NHS Foundation Trust,North East,T&O,Nov-24,966,14.5,348,48,No
+RXF,Harborview NHS Foundation Trust,South West,ent,2023-06,4742,16,2209,271,No
+RXA,NORTHGATE NHS FOUNDATION TRUST,North West,Urology,01/12/2023,776,14.6,238,19,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2024-07,"2,860",17.8,838,103,No
+RXH,Sherbourne NHS Foundation Trust,North East,ent,Jan-23,5627,,1991,0,No
+RXH,Sherbourne NHS Foundation Trust,North East,trauma & orthopaedics,Jul-23,1051,12.3,463,42,No
+RXA,NORTHGATE NHS FOUNDATION TRUST,North West,General Surgery ,2023-11,1447,17.1,620,173,No
+RXB,Eastfield General Hospitals Trust,East of England,gastroenterology,2024-07,920,16.4,324,9,No
+RXA,Northgate NHS Foundation Trust,North West,ent,2024-08,4605,16.4,1956,447,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology,2023-12,1698,19.1,509,75,No
+RXA,NORTHGATE NHS FOUNDATION TRUST,North West,Gastro,2023-02,5842,9.4,2552,513,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology ,Apr-24,6132,18.1,2191,244,No
+RXC,Riverside University Hospitals Trust,London,Trauma and Orthopaedics,2023-08,4305,16.6,1306,172,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,01/02/2024,2780,14.4,1117,162,No
+RXC,Riverside University Hospitals Trust,London,Derm,2023-03,3566,,1546,306,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,2024-01,1089,10.1,384,28,No
+RXC,Riverside University Hospitals Trust,London,dermatology,2024-08,3980,15.8,1656,112,No
+RXH,Sherbourne NHS Foundation Trust,North East,gastroenterology,2024-03,1836,11.3,693,69,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ear Nose and Throat,2023-02,1905,14.9,572,29,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,2023-06,2910,8.2,1686,151,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,trauma & orthopaedics,2024-11,4239,13,1470,246,No
+RXF, Harborview NHS Foundation Trust ,South West,General Surgery,2024-06,5612,20.3,2213,39,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology ,2023-10,3981,13,1147,51,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology ,2023-01,5029,13.2,2382,482,No
+RXA,Northgate NHS Foundation Trust,North West,Dermatology,01/07/2024,2688,10,615,14,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber, Cardiology,2024-06,2979,11,1012,181,No
+RXB,Eastfield General Hospitals Trust,East of England,General Surgery,01/04/2023,1317,12.9,515,2,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery ,2024-05,1142,12.4,441,22,No
+RXC,Riverside University Hospitals Trust,London,ENT,Jun-24,3578,17.3,844,101,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology,2023-11,2878,16.5,684,74,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2024-04,2778,12.6,1147,94,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ent,01/01/2023,1733,8.9,428,41,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,01/11/2024,5756,17,1512,202,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,01/07/2023,898,8.9,467,58,No
+RXB,Eastfield General Hospitals Trust,East of England,trauma & orthopaedics,2023-07,1094,18.4,318,74,No
+RXB,Eastfield General Hospitals Trust,East of England,Ear Nose and Throat,2024-03,4936,17.6,1995,195,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,2024-11,5133,14.7,1333,187,No
+RXC,Riverside University Hospitals Trust,London,general surgery,2023-02,4607,12.1,1817,141,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,Cardiology,01/02/2024,4310,15.8,2501,78,No
+RXH,Sherbourne NHS Foundation Trust,North East, Cardiology,2024-09,5801,13.6,1723,293,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,2024-06,6035,10,1021,134,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,01/02/2023,5774,18.4,2762,0,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma & Orthopaedics,01/11/2023,2687,14.9,693,147,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology,2024-04,2270,15.3,628,103,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Opthalmology,2024-04,2695,10.9,1564,170,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2023-02,1826,13.4,666,13,No
+RXC,Riverside University Hospitals Trust,London,Urology,Jun-23,6191,11.3,2695,361,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,01/06/2024,4509,15.8,1383,320,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,2023-08,2922,12,696,68,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Dec-24,3024,18.6,705,150,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,Apr-23,5171,11.7,1605,177,No
+RXA, Northgate NHS Foundation Trust ,North West,General Surgery ,Jan-23,1731,16.1,447,50,No
+RXF,Harborview NHS Foundation Trust,South West,dermatology,01/09/2023,2759,11.7,999,82,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,2024-02,5205,11.6,2153,221,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery ,2023-06,1542,18.5,227,42,No
+RXB, Eastfield General Hospitals Trust ,East of England,gastroenterology,2023-07,1002,10.8,272,-46,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology ,01/11/2024,1657,12.2,757,76,No
+RXA,Northgate NHS Foundation Trust,North West,cardiology,01/06/2023,5702,16.2,2581,335,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,2023-08,4096,16.3,1525,265,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma & Orthopaedics,2024-04,2777,14.9,1053,81,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,Jan-23,3100,13.8,1086,24,No
+RXD,Kingswood NHS Foundation Trust,South East,ophthalmology ,2024-06,1849,13.5,551,71,No
+RXC, Riverside University Hospitals Trust ,London,Ear Nose and Throat,2024-09,3579,12.7,1190,36,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,01/01/2024,1593,13.3,771,129,No
+RXA,Northgate NHS Foundation Trust,North West,Dermatology,2023-05,"2,578",12.5,947,165,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2023-10,1022,15,495,63,No
+RXA,Northgate NHS Foundation Trust,North West,Derm,May-24,2513,9.3,753,176,No
+RXB,Eastfield General Hospitals Trust,East of England,gastroenterology,2023-01,1027,14.8,504,97,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,01/11/2024,5963,15.2,1454,117,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,Gastroenterology ,2023-07,5675,10.3,3089,306,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,Cardiology,2023-02,5477,13.5,1561,235,No
+RXC,Riverside University Hospitals Trust,London,Dermatology ,2023-02,3439,8.2,1761,145,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology,2023-05,2584,8.4,999,145,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma & Orthopaedics,2024-06,5342,7.3,2721,250,No
+RXB, Eastfield General Hospitals Trust ,East of England,gastroenterology,2024-04,964,11.8,454,50,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery,2023-12,6143,17.7,1351,-229,No
+RXB,Eastfield General Hospitals Trust,East of England,Gen Surgery,Jan-23,1410,12.4,556,59,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,Jan-23,5384,15.7,1739,365,No
+RXF,Harborview NHS Foundation Trust,South West,cardiology,Jan-23,2173,11.6,522,78,No
+RXE,Vale of Aldern NHS Trust,West Midlands,gastroenterology,2023-08,4247,12.2,1594,27,No
+RXE,Vale of Aldern NHS Trust,West Midlands,E.N.T.,2023-03,2959,10.8,665,80,No
+RXA,Northgate NHS Foundation Trust,North West,dermatology,01/04/2024,2304,12.2,977,131,No
+RXB,Eastfield General Hospitals Trust,East of England,ent,01/05/2023,4912,11.1,1561,227,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,01/05/2023,3027,9,566,111,No
+RXA,Northgate NHS Foundation Trust,North West,T&O,2024-06,2746,16.9,1279,90,No
+RXD, Kingswood NHS Foundation Trust ,South East,Gastroenterology,2023-04,2439,9.1,652,54,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2024-04,3181,10.1,975,144,No
+RXD, Kingswood NHS Foundation Trust ,South East,ent,01/01/2024,5705,13.2,1651,0,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology,2024-11,707,15.2,306,19,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology,2024-02,3917,10.4,2040,224,No
+RXB,Eastfield General Hospitals Trust,East of England, Cardiology,2023-10,1188,21.1,320,69,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2023-03,2545,8,1152,115,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Feb-24,2758,17.6,631,39,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,Urology,2024-03,2204,9.7,1098,115,No
+RXC,Riverside University Hospitals Trust,London,dermatology,Feb-24,3785,19.7,2037,340,No
+RXC,Riverside University Hospitals Trust,London,urology ,01/07/2023,5899,15.1,1700,165,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,01/02/2023,3512,13.6,1470,102,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,01/07/2024,5399,18.1,1524,270,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,01/10/2023,2618,,1054,0,No
+RXC,Riverside University Hospitals Trust,London,Trauma & Orthopaedics,2023-03,4580,12.2,1145,102,No
+RXH,Sherbourne NHS Foundation Trust,North East,gastroenterology,2023-04,1944,13.9,483,64,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,01/10/2023,5740,16,2346,269,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery,Oct-23,940,10,244,24,No
+RXF,Harborview NHS Foundation Trust,South West,dermatology,Oct-23,"2,835",11.6,839,150,No
+RXA,Northgate NHS Foundation Trust,North West,T&O,2024-03,2951,15,1106,155,No
+RXD,Kingswood NHS Foundation Trust,South East,cardiology,01/07/2023,2423,12.2,833,123,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,01/08/2023,3723,11.7,1751,84,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gen Surgery,Sep-23,1267,16.2,384,64,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,cardiology,Mar-24,2669,12.5,902,73,No
+RXC,Riverside University Hospitals Trust,London,cardiology,2023-12,6173,16.9,2295,452,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,May-23,3931,,1709,74,No
+RXC,Riverside University Hospitals Trust,London,dermatology,Dec-24,4005,18.8,1399,232,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,Dec-24,3414,11,985,173,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2024-04,1643,10.1,416,34,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,2023-04,2885,11.1,555,33,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma & Orthopaedics,2023-04,4857,7.8,1559,225,No
+RXF,Harborview NHS Foundation Trust,South West,ent,Feb-23,4945,11.5,1355,83,No
+RXF,Harborview NHS Foundation Trust,South West,Ophthalmology,2024-08,2843,13.6,573,61,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2024-10,2878,20,1645,181,No
+RXF,Harborview NHS Foundation Trust,South West,E.N.T.,May-23,4639,14.2,1641,338,No
+RXC, Riverside University Hospitals Trust ,London,T&O,2024-01,4640,13.1,1936,453,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,Mar-24,3620,11.7,1803,185,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,Ear Nose and Throat,2023-08,5604,13.5,1656,161,No
+RXH,Sherbourne NHS Foundation Trust,North East,trauma & orthopaedics,Apr-24,1092,12.8,474,64,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology ,2023-03,1582,10.7,784,131,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,01/03/2024,5964,15.1,2320,93,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology,2023-06,2527,10.3,710,35,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2023-02,2719,16.6,882,41,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2024-11,1937,19.5,654,79,No
+RXA,Northgate NHS Foundation Trust,North West,cardiology,2024-04,5646,,2008,0,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery ,2024-11,5742,10.5,1573,176,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,Trauma and Orthopaedics,2023-10,933,15.4,355,28,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,Dec-24,3567,14.9,1430,280,No
+RXE, Vale of Aldern NHS Trust ,West Midlands,Gastroenterology,2024-06,4005,10.5,1593,288,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ear Nose and Throat,2023-08,1718,12.6,789,0,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastro,2024-09,1902,19,590,126,No
+RXA,Northgate NHS Foundation Trust,North West, Cardiology,2023-07,5542,12.1,2764,477,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,2024-11,3818,15.7,798,118,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,Dec-24,2593,18.7,1310,0,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,01/03/2024,2304,13.4,564,61,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,Opthalmology,2024-04,1625,20.9,519,0,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,01/05/2023,3715,7.3,1165,259,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,01/12/2024,5120,17.3,2182,131,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma and Orthopaedics,01/12/2023,4499,14.1,1135,199,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,cardiology,2023-07,2887,16.5,1149,211,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2024-01,1795,17.4,498,39,No
+RXG,Meadowbrook University Hospitals Trust,,trauma & orthopaedics,2024-06,3930,13.8,2134,366,No
+RXA,Northgate NHS Foundation Trust,North West,ent,01/06/2023,3913,14.2,1304,-102,No
+RXH,Sherbourne NHS Foundation Trust,North East,dermatology,2023-11,3156,11.9,1037,176,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,2024-08,5916,12.3,2053,179,No
+RXA,Northgate NHS Foundation Trust,North West,cardiology,2024-07,5835,11,3427,347,No
+RXA,Northgate NHS Foundation Trust,North West,E.N.T.,01/09/2024,4488,14.2,1771,333,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,Apr-23,5363,15,1570,206,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,01/07/2024,2690,20.7,1089,302,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology ,2024-10,2435,19.6,705,74,No
+RXH,Sherbourne NHS Foundation Trust,North East,cardiology,2024-02,5710,10.7,2290,229,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,01/07/2023,2053,12.7,437,104,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology ,2023-03,6274,20.3,2082,134,No
+RXD,Kingswood NHS Foundation Trust,South East,ophthalmology ,2023-02,1858,14.3,680,19,No
+RXB,Eastfield General Hospitals Trust,East of England,Opthalmology,2023-08,1718,11.7,324,56,No
+RXF,Harborview NHS Foundation Trust,South West,E.N.T.,2023-07,4536,11.4,2397,330,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery ,Jul-24,2780,13.8,1163,135,No
+RXB,Eastfield General Hospitals Trust,East of England,E.N.T.,Jan-24,5175,17.9,1487,213,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Gen Surgery,01/12/2024,1951,16.7,761,123,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,general surgery,2024-05,2660,4.7,1077,57,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,Ophthalmology,2023-12,5384,15.2,2021,243,No
+RXA,Northgate NHS Foundation Trust,North West,dermatology,2024-03,2471,16.2,992,147,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma and Orthopaedics,2023-02,4725,17.4,1547,107,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gen Surgery,01/05/2024,2269,15.1,525,55,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,cardiology,2024-02,2193,21.8,1220,168,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,Ophthalmology,2024-04,2523,13.9,732,45,No
+RXD,Kingswood NHS Foundation Trust,South East,ophthalmology ,Nov-23,1642,16.8,405,75,No
+RXA,Northgate NHS Foundation Trust,North West,dermatology,2023-08,2260,15,839,186,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2024-09,2591,13,1567,249,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ear Nose and Throat,2024-08,5685,20.7,1281,193,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,general surgery,2023-06,2460,14.3,867,88,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma and Orthopaedics,01/10/2024,1071,12.4,373,36,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ear Nose and Throat,01/11/2023,5897,11.8,2284,390,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2023-04,3575,11.5,1660,0,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2023-04,2651,16.1,887,68,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gen Surgery,2024-07,2535,14.8,299,49,No
+RXA,Northgate NHS Foundation Trust,North West,Ear Nose and Throat,Aug-23,4002,11.7,1235,192,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery ,Feb-23,2651,,965,86,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,01/03/2023,3986,10.2,682,31,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,01/06/2023,2127,13.7,869,178,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,Oct-23,5677,17.4,2544,355,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2024-08,6016,13.7,1258,92,No
+RXF,Harborview NHS Foundation Trust,,Urology,2023-12,"3,369",13.5,634,67,No
+RXF,Harborview NHS Foundation Trust,South West,ent,Jan-23,4841,19.7,1510,132,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma & Orthopaedics,2024-11,4594,10.2,1907,77,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology ,2024-10,2706,15,668,38,No
+RXD,Kingswood NHS Foundation Trust,South East,ent,01/04/2024,5664,14.5,2241,464,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology,Oct-24,2801,13.2,734,50,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,cardiology,2023-09,2832,10.2,1653,165,No
+RXC,Riverside University Hospitals Trust,London,dermatology,2024-03,3816,14.5,1533,362,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastro,Mar-23,2496,9.3,1324,147,No
+RXD, Kingswood NHS Foundation Trust ,South East,general surgery,Apr-24,6035,17.8,1973,231,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,general surgery,01/08/2024,2444,18.5,587,0,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma & Orthopaedics,Mar-24,1462,,450,40,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery,Mar-23,2561,9.4,1206,54,No
+RXC,Riverside University Hospitals Trust,London,trauma & orthopaedics,May-23,4365,9.8,2232,224,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology,2023-03,3420,12.3,1431,0,No
+RXC,Riverside University Hospitals Trust,London,Urology,2023-04,5849,10.7,2030,216,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,2024-04,3129,12.5,1222,30,No
+RXF,Harborview NHS Foundation Trust,South West,general surgery,2024-10,5735,20.3,3378,481,No
+RXC,Riverside University Hospitals Trust,London,Gastro,2023-09,"3,226",16.7,1203,57,No
+RXH,Sherbourne NHS Foundation Trust,North East, Cardiology,2023-09,5519,13,2054,193,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,Urology,2024-11,3150,14.4,1126,69,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,2023-10,2354,12.5,596,143,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,E.N.T.,01/10/2024,2236,20.1,733,-91,No
+RXD,Kingswood NHS Foundation Trust,South East,Ear Nose and Throat,2023-01,5501,12,2105,369,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,2024-11,5027,13.5,1955,144,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,General Surgery ,2023-02,878,10.2,315,26,No
+RXD,Kingswood NHS Foundation Trust,South East,ent,2024-09,5762,17.8,1421,204,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2024-12,2383,17.2,580,44,No
+RXH,Sherbourne NHS Foundation Trust,North East,dermatology,Jun-24,3073,13.3,1229,81,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,cardiology,2023-06,2895,10.9,1029,81,No
+RXC,Riverside University Hospitals Trust,London,ent,2024-03,"3,567",17.4,1317,93,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,2024-05,"1,687",17.8,591,96,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,Dec-23,2768,10.8,788,123,No
+RXF,Harborview NHS Foundation Trust,South West,ophthalmology ,2024-09,"2,933",10.4,717,91,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery,01/04/2023,2773,14,936,211,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2024-12,2993,14.8,1007,181,No
+RXF,Harborview NHS Foundation Trust,South West,urology ,2023-06,3437,15.1,1325,259,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,01/04/2023,5944,14,2744,567,No
+RXH,Sherbourne NHS Foundation Trust,North East,general surgery,2024-10,"1,322",,410,57,No
+RXB,Eastfield General Hospitals Trust,East of England,Ear Nose and Throat,Oct-24,4948,16.4,2241,301,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,01/07/2023,1037,13.8,428,61,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastro,01/02/2023,2402,14.5,952,201,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery ,01/03/2023,5708,10.1,2864,456,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology ,2023-08,2521,15.5,1493,104,No
+RXF,Harborview NHS Foundation Trust,South West,dermatology,2024-04,2881,10.1,1065,122,No
+RXF,Harborview NHS Foundation Trust,South West,Ear Nose and Throat,2024-01,5008,12.5,1743,187,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,Apr-23,1948,9.7,1035,12,No
+RXA, Northgate NHS Foundation Trust ,North West,Gastro,2024-04,5994,14.2,2216,246,No
+RXH,Sherbourne NHS Foundation Trust,North East,ent,2024-10,5553,17.4,1252,148,No
+RXD,Kingswood NHS Foundation Trust,South East,ophthalmology ,Mar-23,1641,16.2,721,30,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma and Orthopaedics,01/10/2023,5528,13.6,2381,363,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology ,2024-04,2785,15.8,1219,131,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,01/10/2024,2484,13.8,1051,48,No
+RXD,Kingswood NHS Foundation Trust,South East, Cardiology,2024-11,2646,10.8,1316,65,No
+RXE,Vale of Aldern NHS Trust,West Midlands,dermatology,2024-10,4949,23.1,2076,608,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2024-04,2027,14.4,727,35,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,01/12/2024,2614,17.6,863,79,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology,01/03/2023,2627,12.9,779,116,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastro,2024-10,1830,17,805,29,No
+RXE,Vale of Aldern NHS Trust,West Midlands,cardiology,May-23,3741,12.5,1548,197,No
+RXD,Kingswood NHS Foundation Trust,South East,ent,01/06/2023,6075,15.7,2296,-517,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,01/06/2023,2939,13.2,1076,131,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastro,2024-11,"3,037",18.8,1237,0,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,2024-05,2563,18.4,567,20,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery,2024-03,1692,16.1,710,92,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2023-11,2435,10.7,844,58,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,2024-02,1256,13.3,398,75,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,01/09/2023,4642,13.9,1658,196,No
+RXC, Riverside University Hospitals Trust ,London,Trauma and Orthopaedics,2024-03,"4,291",16.6,1272,145,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,2023-07,2950,,421,54,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,01/07/2023,2857,11.5,970,140,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Jan-23,"2,741",16.2,973,77,No
+RXF, Harborview NHS Foundation Trust ,South West,Ophthalmology,2023-04,3284,13.7,1240,149,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,Dec-23,"4,230",14.6,1604,257,No
+RXE,Vale of Aldern NHS Trust,West Midlands,trauma & orthopaedics,Oct-23,5844,,1729,67,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,2023-02,939,18.4,225,5,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma and Orthopaedics,2024-09,3972,15,836,70,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Opthalmology,Nov-23,5405,18.4,2455,495,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Derm,01/09/2024,4945,18.3,1496,240,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,Aug-24,5083,16.5,2578,219,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ent,Sep-23,2159,16.6,656,100,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2023-10,3273,4.9,1411,180,No
+RXB,Eastfield General Hospitals Trust,East of England,trauma & orthopaedics,2024-09,1091,16.4,314,45,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ophthalmology ,2024-06,2408,18.7,659,80,No
+RXE,Vale of Aldern NHS Trust,West Midlands, Cardiology,2023-10,3900,14.2,1040,84,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,01/11/2023,2875,10,1458,196,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology,2024-09,2904,16.6,868,7,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2023-10,1918,18.1,370,35,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,Urology,01/11/2023,3919,7.8,667,16,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,Urology,2023-06,2993,5.7,653,63,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,Jul-24,4228,15,1404,201,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,01/04/2023,1019,17.7,229,17,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Trauma and Orthopaedics,2024-06,983,13.2,213,40,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastro,2024-10,2322,13.2,918,56,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,E.N.T.,2023-11,2051,12.9,734,56,No
+RXC,Riverside University Hospitals Trust,London,T&O,2023-02,4563,11.8,628,52,No
+RXH,Sherbourne NHS Foundation Trust,North East,dermatology,2023-09,3421,13.7,1591,74,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2023-11,2471,12.2,748,154,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,2023-06,"2,739",9.2,1351,133,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ear Nose and Throat,2023-07,1961,11.4,598,80,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology,2023-08,2295,14,954,122,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,Nov-24,2728,16.6,861,112,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Derm,2023-12,2957,19.2,817,179,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,Dec-24,4522,18.3,960,104,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,01/05/2024,1967,13.7,503,94,No
+RXH,Sherbourne NHS Foundation Trust,North East,E.N.T.,2024-04,"5,271",13.1,2143,124,No
+RXA,Northgate NHS Foundation Trust,North West,E.N.T.,2023-02,3646,11.3,1675,167,No
+RXE,Vale of Aldern NHS Trust,West Midlands,general surgery,2024-06,2895,16.5,1095,295,No
+RXA,Northgate NHS Foundation Trust,North West,Ear Nose and Throat,2023-12,4475,12.3,1238,105,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,cardiology,2023-01,2478,,888,83,No
+RXH,Sherbourne NHS Foundation Trust,North East,gastroenterology,01/07/2024,2006,15.1,789,142,No
+RXB,Eastfield General Hospitals Trust,East of England,dermatology,Nov-23,2394,,992,200,No
+RXC, Riverside University Hospitals Trust ,London,Ophthalmology,01/06/2023,3142,11.4,1085,55,No
+RXH,Sherbourne NHS Foundation Trust,North East,general surgery,2023-12,981,7.6,293,55,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,Jul-23,3119,11.2,1099,169,No
+RXD,Kingswood NHS Foundation Trust,South East,E.N.T.,2023-05,5819,12.4,3561,189,No
+RXE,Vale of Aldern NHS Trust,West Midlands,gastroenterology,May-24,3995,19.1,2054,339,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Aug-23,2743,15.7,263,34,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2024-03,2833,14.1,1544,173,No
+RXC,Riverside University Hospitals Trust,London,Dermatology,01/10/2024,3934,15.3,1549,89,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery ,2024-08,1253,10.8,577,64,No
+RXC,Riverside University Hospitals Trust,London,general surgery,01/06/2024,4878,17.4,2692,27,No
+RXF,Harborview NHS Foundation Trust,South West,ophthalmology ,01/03/2023,3017,15.8,641,96,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,Dec-23,4873,13.1,2006,324,No
+RXC, Riverside University Hospitals Trust ,London,general surgery,2024-04,4626,13.5,2206,171,No
+RXF,Harborview NHS Foundation Trust,South West,ENT,2024-12,5066,14.7,1032,83,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Opthalmology,01/03/2024,5583,14.7,2408,273,No
+RXF,Harborview NHS Foundation Trust,South West,Ophthalmology,2023-11,2935,16.6,781,160,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Opthalmology,01/09/2024,5638,14,1751,118,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma & Orthopaedics,2024-02,2905,16.3,657,26,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,2024-02,5717,11.2,2582,351,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2023-02,2447,9.9,579,91,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2023-02,"5,061",9.1,1948,260,No
+RXA,Northgate NHS Foundation Trust,North West, Cardiology,2023-11,5767,15.9,1856,37,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,2024-08,3211,13.1,1048,176,No
+RXB,Eastfield General Hospitals Trust,East of England,ent,2023-12,4935,16.3,2049,52,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,E.N.T.,2024-08,2324,15.2,903,0,No
+RXF,Harborview NHS Foundation Trust,South West,gastroenterology,2023-09,6048,12,1987,394,No
+RXC,Riverside University Hospitals Trust,London,Gen Surgery,2023-07,4708,10.2,1553,173,No
+RXE,Vale of Aldern NHS Trust,West Midlands,T&O,2023-03,5858,11.9,1117,192,No
+RXA,Northgate NHS Foundation Trust,North West,E.N.T.,2023-09,3864,14.5,1143,190,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,Sep-24,"1,731",13.4,716,83,No
+RXD,Kingswood NHS Foundation Trust,South East,cardiology,01/10/2023,2420,13.9,990,85,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,Dec-23,5918,16.6,1916,0,No
+RXA,Northgate NHS Foundation Trust,North West,cardiology,2024-04,5646,,2008,0,No
+RXB,Eastfield General Hospitals Trust,East of England,gastroenterology,2023-11,1018,15.3,269,38,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,Aug-23,6080,11.5,1526,171,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East, Cardiology,2023-12,5735,13.7,1941,296,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,2023-12,"3,064",16.1,836,78,No
+RXC,Riverside University Hospitals Trust,London,Dermatology ,Sep-24,3904,15.8,1186,203,No
+RXA,Northgate NHS Foundation Trust,North West,general surgery,Oct-24,1286,15.7,467,73,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,Oct-24,4823,18.6,1683,232,No
+RXB,Eastfield General Hospitals Trust,East of England,E.N.T.,2024-06,4848,15.6,1674,248,No
+RXD,Kingswood NHS Foundation Trust,South East,dermatology,May-23,2309,9.9,931,180,No
+RXC,Riverside University Hospitals Trust,London,Gen Surgery,2023-05,4758,5.7,1779,366,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,2024-06,797,11.2,302,5,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma and Orthopaedics,Aug-24,2869,12.6,748,53,No
+RXC,Riverside University Hospitals Trust,London,Ophthalmology,2024-06,2871,19.9,900,123,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,ophthalmology ,2024-01,2499,10.7,559,84,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,01/08/2024,3719,15.6,1215,103,No
+RXB,Eastfield General Hospitals Trust,East of England,gastroenterology,2023-05,866,16.5,218,8,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology,2024-07,6346,15.1,2477,161,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,01/08/2023,3970,13.4,2014,309,No
+RXF, Harborview NHS Foundation Trust ,South West,Ophthalmology,2023-10,"3,076",,1141,62,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology ,2023-01,1692,14.2,419,27,No
+RXF,Harborview NHS Foundation Trust,South West,general surgery,01/01/2023,5472,14.5,1348,149,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,Mar-23,2423,12.2,700,108,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology ,Apr-23,2209,15.4,930,118,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,01/06/2024,2436,13.4,1186,114,No
+RXC,Riverside University Hospitals Trust,London,Dermatology ,01/09/2023,3505,14.5,1443,204,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,Aug-24,3876,18.7,1761,209,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology ,2023-10,832,13.5,412,93,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ear Nose and Throat,May-24,3550,16,1308,194,No
+RXD, Kingswood NHS Foundation Trust ,South East,Cardiology,2023-12,2591,8.3,813,112,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma and Orthopaedics,2024-07,4933,19.2,1612,65,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastro,Feb-24,1865,22.2,758,164,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery ,May-23,2799,18.1,797,65,No
+RXA,Northgate NHS Foundation Trust,North West,ent,2024-07,4695,15.9,1909,246,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2024-01,2816,11.3,1151,184,No
+RXE,Vale of Aldern NHS Trust,West Midlands,gastroenterology,2024-09,"4,144",16.4,1595,128,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,gastroenterology,2023-08,1684,11.1,303,27,No
+RXH,Sherbourne NHS Foundation Trust,North East,E.N.T.,2023-04,5563,14,1978,104,No
+RXD,Kingswood NHS Foundation Trust,South East,Ear Nose and Throat,01/08/2024,5772,15.8,3001,553,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,2023-01,1006,11.9,301,5,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,May-24,"5,971",8.5,1710,277,No
+RXD,Kingswood NHS Foundation Trust,South East,ENT,Oct-24,5997,14.5,1590,128,No
+RXC,Riverside University Hospitals Trust,London,trauma & orthopaedics,2023-10,4651,9.3,1686,398,No
+RXH,Sherbourne NHS Foundation Trust,North East,T&O,2023-06,1060,13.4,339,72,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology,2024-12,6056,18.2,2651,278,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,2024-02,2856,9.3,615,14,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,2023-12,5730,12.9,972,132,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology,Feb-23,2391,5.3,1189,219,No
+RXB,Eastfield General Hospitals Trust,East of England,Cardiology,2024-07,1048,18.4,481,75,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,May-23,2797,14.4,363,0,No
+RXA,Northgate NHS Foundation Trust,North West,Derm,2023-10,2366,14.8,418,81,No
+RXC,Riverside University Hospitals Trust,London,Gen Surgery,2023-12,4674,11.6,1676,265,No
+RXH,Sherbourne NHS Foundation Trust,North East,ophthalmology ,Jan-23,3878,12.8,1129,122,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,01/03/2024,2614,15.4,1144,183,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,Dec-24,874,19.6,424,77,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology ,Mar-23,2103,17.5,932,98,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gen Surgery,Sep-23,2182,14.6,827,-146,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,2023-09,2082,12.7,921,27,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma and Orthopaedics,01/10/2023,4731,18.4,1856,-310,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastro,Sep-23,4026,15.8,869,112,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,2024-04,6145,17.1,1615,173,No
+RXF,Harborview NHS Foundation Trust,South West,Ophthalmology,2023-01,3054,13.7,1635,148,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands, Cardiology,Apr-23,3923,7.7,1509,408,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,Jan-23,4699,10.9,1899,370,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2023-05,3566,12.3,1086,242,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,01/05/2023,1768,14.7,505,74,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,cardiology,2024-11,2723,16.1,1325,79,No
+RXC,RIVERSIDE UNIVERSITY HOSPITALS TRUST,London,General Surgery ,Feb-24,"4,597",11.2,2190,201,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,2023-11,3288,18.4,832,139,No
+RXF,Harborview NHS Foundation Trust,South West,urology ,01/06/2024,"3,685",9.7,1466,83,No
+RXH,Sherbourne NHS Foundation Trust,North East,urology ,2023-08,3948,16.2,1094,124,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,2023-05,2213,9.4,1045,109,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,2023-05,3063,13.6,942,21,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,01/07/2024,2194,13,640,68,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2024-06,5923,14.9,1922,404,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology ,Sep-23,2786,15.1,983,0,No
+RXF,Harborview NHS Foundation Trust,South West,Derm,2024-12,2722,14.6,1032,77,No
+RXE,Vale of Aldern NHS Trust,West Midlands,urology ,Jan-23,3162,14,1166,186,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,2023-08,2856,15.1,1006,27,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,2024-06,2222,16,1392,189,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,Gastro,2023-09,2889,14.3,1021,101,No
+RXA,Northgate NHS Foundation Trust,North West,general surgery,2024-09,1775,16.7,674,39,No
+RXC,Riverside University Hospitals Trust,London,Urology,2024-06,6198,13.6,2835,401,No
+RXD,Kingswood NHS Foundation Trust,South East,ophthalmology ,Jun-23,1643,8.3,482,12,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology ,2023-01,2383,14.5,570,75,No
+RXC, Riverside University Hospitals Trust ,London,Cardiology,2023-02,6118,13.6,2884,195,No
+RXA, Northgate NHS Foundation Trust ,North West,Trauma and Orthopaedics,01/10/2023,2855,11.8,556,69,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,Jun-24,2971,17.5,808,106,No
+RXA,Northgate NHS Foundation Trust,North West,trauma & orthopaedics,2024-12,2898,,1151,133,No
+RXA, Northgate NHS Foundation Trust ,North West,Trauma & Orthopaedics,2023-06,2822,20.1,933,128,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma and Orthopaedics,2024-10,4627,12,956,82,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,2023-08,3341,11.4,1298,221,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery ,01/04/2024,2218,16.3,925,132,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology,01/04/2024,3052,19.2,1801,263,No
+RXC,Riverside University Hospitals Trust,London,dermatology,01/07/2023,3549,11,1345,146,No
+RXC,Riverside University Hospitals Trust,London,gastroenterology,Mar-23,"3,403",6.6,999,114,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastro,2023-11,4135,13.4,1700,285,No
+RXC,Riverside University Hospitals Trust,London,cardiology,2024-10,6370,13.3,2122,280,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,01/01/2023,3010,11.7,756,69,No
+RXB,Eastfield General Hospitals Trust,East of England,Ear Nose and Throat,2024-02,5021,14.7,1481,118,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastro,2023-09,1637,13.5,645,46,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ear Nose and Throat,2024-03,5477,16,1573,195,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology ,2024-12,3387,20,1210,219,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery,01/12/2023,2799,4.8,1326,103,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,Jul-23,4876,16.1,1444,199,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,2024-09,2257,13.2,798,145,No
+RXF,Harborview NHS Foundation Trust,South West, Cardiology,Nov-24,2003,16.6,942,132,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2023-09,2406,12.1,656,27,No
+RXH,Sherbourne NHS Foundation Trust,North East,cardiology,2024-05,5556,17.6,2448,480,No
+RXE,Vale of Aldern NHS Trust,West Midlands,trauma & orthopaedics,2024-09,6030,17.3,1704,48,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastro,01/04/2024,2626,9.6,1203,110,No
+RXF,Harborview NHS Foundation Trust,South West,ophthalmology ,2024-05,2801,15.5,1566,45,No
+RXB,Eastfield General Hospitals Trust,East of England, Cardiology,2023-11,1448,11.8,589,128,No
+RXC,Riverside University Hospitals Trust,London,Urology,2023-05,5863,9.7,2528,506,No
+RXC,Riverside University Hospitals Trust,London,Urology,2024-12,6054,17.5,1881,178,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery,2024-07,1382,17.1,398,55,No
+RXC,Riverside University Hospitals Trust,London,Urology,01/09/2024,6052,14.9,2231,298,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma & Orthopaedics,2023-10,1214,13.2,582,73,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,01/12/2024,5840,13.3,2442,-510,No
+RXC,Riverside University Hospitals Trust,London,trauma & orthopaedics,Dec-23,4612,15.1,1906,355,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,E.N.T.,2023-04,1967,12.9,438,58,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma and Orthopaedics,2023-03,1248,6.6,401,26,No
+RXB,Eastfield General Hospitals Trust,East of England, Cardiology,2024-08,990,13.9,466,59,No
+RXA,Northgate NHS Foundation Trust,North West,Gastro,2024-01,5899,13,473,55,Yes
+RXA,Northgate NHS Foundation Trust,North West,Urology,01/04/2023,886,,267,48,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ophthalmology ,Jan-23,4853,9.9,1282,141,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology,Oct-23,2317,17.5,721,103,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Ophthalmology,01/11/2024,2039,15.1,732,145,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology,2023-11,2972,8.4,1262,257,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,Oct-24,3786,14.1,1045,114,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology ,01/01/2024,1736,15.2,752,74,No
+RXA,Northgate NHS Foundation Trust,North West,ent,2024-12,4711,11.6,2381,145,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,2023-11,4136,17.6,1268,167,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,T&O,2024-12,4257,13.5,1791,250,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,2024-11,"3,540",18.4,1110,190,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery,Apr-24,1644,15,547,103,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,01/08/2023,3014,9.3,765,129,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,trauma & orthopaedics,2024-01,"4,145",14.5,1856,54,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology,Jul-23,3844,14.3,1474,198,No
+RXC,Riverside University Hospitals Trust,London,E.N.T.,Aug-24,"3,669",17.6,384,81,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma and Orthopaedics,2023-10,3980,13.8,1289,87,No
+RXC,Riverside University Hospitals Trust,London,General Surgery ,01/09/2024,5135,12.6,1514,267,No
+RXH,Sherbourne NHS Foundation Trust,North East,Opthalmology,Apr-24,4421,13.4,2370,149,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,Oct-24,957,18,439,38,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology,01/08/2024,2587,18.3,421,40,No
+RXB,Eastfield General Hospitals Trust,East of England,urology ,May-23,5019,14.5,1526,150,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,2023-09,5865,12.8,2170,0,No
+RXH,Sherbourne NHS Foundation Trust,North East,Opthalmology,2024-10,4525,19.9,1176,0,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,01/07/2023,2952,17.1,1247,154,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2024-02,1570,15.2,808,187,No
+RXB,Eastfield General Hospitals Trust,East of England,E.N.T.,Feb-23,5135,13.3,2256,356,No
+RXC,Riverside University Hospitals Trust,London,T&O,2024-11,4633,16,2073,311,No
+RXE,Vale of Aldern NHS Trust,West Midlands,T&O,2024-11,6197,17.5,2455,269,No
+RXD,Kingswood NHS Foundation Trust,South East,ENT,Jul-23,5904,14.1,2035,393,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,01/01/2023,5216,9.3,1768,206,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,2023-12,2812,17.3,685,46,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,trauma & orthopaedics,01/03/2024,4210,12.7,1692,103,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2024-01,3980,17.9,582,124,No
+RXD,Kingswood NHS Foundation Trust,South East,dermatology,2023-06,2331,14.1,329,27,No
+RXA,Northgate NHS Foundation Trust,North West,general surgery,2023-10,1564,17,656,71,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma and Orthopaedics,2023-05,5411,11.9,2464,360,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,2024-03,4353,17.5,1099,198,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gen Surgery,2023-06,2808,12,1456,204,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,2023-11,2436,15,852,123,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2024-01,1605,17,916,171,No
+RXA,Northgate NHS Foundation Trust,North West,Opthalmology,May-24,4160,17.4,1653,203,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2024-07,4365,20.1,1479,264,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,Urology,2024-10,2135,17.2,512,36,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,01/05/2024,1919,9.5,867,0,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,T&O,2024-12,4896,16.6,1857,408,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2023-04,1758,14,676,79,No
+RXF,Harborview NHS Foundation Trust,South West,Trauma and Orthopaedics,2023-09,4550,13.3,1756,234,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,,Urology,01/06/2023,4795,11.5,985,20,No
+RXA,Northgate NHS Foundation Trust,North West,general surgery,2024-12,1467,,452,16,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2023-05,2367,12,779,58,No
+RXF,Harborview NHS Foundation Trust,South West,trauma & orthopaedics,Mar-24,4530,12.5,1727,221,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,trauma & orthopaedics,2024-02,4377,16.9,632,165,No
+RXB,Eastfield General Hospitals Trust,East of England,Cardiology,01/11/2024,1021,11.3,169,25,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,May-23,2553,13,940,40,No
+RXD,Kingswood NHS Foundation Trust,South East,ENT,May-24,5872,16.8,2104,430,No
+RXB,Eastfield General Hospitals Trust,East of England,Ear Nose and Throat,2023-01,"5,247",14.8,1867,151,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,01/07/2024,1738,14.9,624,46,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,2024-07,5447,13.1,2508,243,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,2023-03,5574,7.5,1188,180,No
+RXA,Northgate NHS Foundation Trust,North West,gastroenterology,2024-12,6250,16.8,1961,-371,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,2024-05,6397,12.6,2682,578,No
+RXB,Eastfield General Hospitals Trust,East of England,ophthalmology ,Dec-23,1699,17.1,821,176,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology,2023-10,5755,13.2,2092,153,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology,2024-07,2298,14.5,825,111,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastro,2023-07,2233,12.6,685,68,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,2024-08,2694,13.4,621,93,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma & Orthopaedics,01/04/2023,1087,10.4,375,37,No
+RXC,Riverside University Hospitals Trust,London,ent,2023-02,3415,11.3,1673,312,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastro,2023-02,1912,18.5,668,148,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,01/06/2023,2611,15.7,1362,294,No
+RXC,RIVERSIDE UNIVERSITY HOSPITALS TRUST,London, Cardiology,2023-07,6133,15.3,2062,47,No
+RXC,Riverside University Hospitals Trust,London,Gastro,Apr-23,3036,8.8,1198,170,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery ,Jan-23,933,14.7,211,25,No
+RXB,Eastfield General Hospitals Trust,East of England,ent,2024-09,4845,14,1539,376,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,2024-07,5845,11.8,2438,468,No
+RXB,Eastfield General Hospitals Trust,East of England,Cardiology,Jun-24,1188,10.3,402,26,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,gastroenterology,01/12/2023,2805,15.6,1255,179,No
+RXB,Eastfield General Hospitals Trust,East of England,general surgery,2023-05,1281,15.7,559,76,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,Jan-24,2248,14.1,1034,108,No
+RXF,Harborview NHS Foundation Trust,South West,Urology,01/07/2024,3712,11.8,1556,289,No
+RXC,Riverside University Hospitals Trust,London, Cardiology,2024-03,6300,15.4,1497,150,No
+RXA,Northgate NHS Foundation Trust,North West, Cardiology,01/03/2024,5776,12.7,1550,134,No
+RXF,Harborview NHS Foundation Trust,South West,gastroenterology,2023-05,5911,11.9,1316,108,No
+RXC,Riverside University Hospitals Trust,London,Derm,01/10/2023,3547,11.9,1146,245,No
+RXD,Kingswood NHS Foundation Trust,South East,cardiology,01/08/2024,2718,13.8,488,31,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2023-10,5085,15.9,1821,361,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,2023-02,5935,5.8,2300,318,No
+RXF,Harborview NHS Foundation Trust,South West,Derm,2024-07,"2,640",13.6,925,201,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastro,2024-03,4029,10.8,813,93,No
+RXB,Eastfield General Hospitals Trust,East of England,ophthalmology ,Oct-23,2066,15.4,700,116,No
+RXC,Riverside University Hospitals Trust,London,Gen Surgery,Jan-24,"4,824",18.6,1260,159,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,trauma & orthopaedics,01/03/2023,4239,8.2,1887,121,No
+RXD,Kingswood NHS Foundation Trust,South East,ent,01/06/2023,6075,15.7,2296,-517,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,2024-04,2001,11.2,675,93,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma and Orthopaedics,Jun-23,5845,9.6,2096,224,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ent,2023-12,2242,16.8,618,24,No
+RXF,Harborview NHS Foundation Trust,South West,cardiology,01/07/2024,2189,11,1085,118,No
+RXF,Harborview NHS Foundation Trust,South West,cardiology,2023-07,2337,12.3,898,61,No
+RXF,Harborview NHS Foundation Trust,South West,general surgery,2023-02,5743,8.6,2114,407,No
+RXC,Riverside University Hospitals Trust,London,Trauma & Orthopaedics,01/11/2023,4390,11.5,1762,230,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ophthalmology ,Sep-23,5157,13.2,1910,313,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2024-04,5284,19.3,2075,273,No
+RXC,Riverside University Hospitals Trust,London,ophthalmology ,2023-08,2689,12,456,-45,No
+RXC,RIVERSIDE UNIVERSITY HOSPITALS TRUST,London,ophthalmology ,Mar-24,2807,21.1,1064,185,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology,2024-08,2511,16.9,997,66,No
+RXC,Riverside University Hospitals Trust,London,Urology,01/08/2023,5794,11.7,2174,465,No
+RXB,Eastfield General Hospitals Trust,East of England,Cardiology,01/03/2024,878,15.2,415,19,No
+RXD,Kingswood NHS Foundation Trust,South East,general surgery,2023-07,5914,10.6,1933,124,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2024-10,2756,19.4,691,59,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,01/07/2023,5867,3.3,2453,248,No
+RXA,Northgate NHS Foundation Trust,North West,Gen Surgery,2023-12,1615,18.6,639,79,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology ,2024-01,2784,14.8,1414,133,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,2023-11,3093,9.7,867,47,No
+RXD,Kingswood NHS Foundation Trust,South East,E.N.T.,2023-04,6001,11.7,2123,70,No
+RXB,Eastfield General Hospitals Trust,East of England,ophthalmology ,2024-06,2078,17.5,1001,125,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,2023-06,3098,,554,107,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,Dec-24,5655,13.6,2870,349,No
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,2023-05,1826,12.5,761,67,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma & Orthopaedics,01/08/2023,1289,18.2,370,40,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2023-01,2340,11.5,801,74,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ophthalmology ,2024-08,"5,571",16,2409,383,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery,2023-07,5675,12.5,1799,254,No
+RXF, Harborview NHS Foundation Trust ,South West,urology ,Oct-24,3473,,714,64,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology,01/02/2024,2599,15.3,1394,271,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery,2023-02,5833,16.8,1729,30,No
+RXF,Harborview NHS Foundation Trust,South West,trauma & orthopaedics,2023-11,4639,16.3,1409,203,No
+RXD,Kingswood NHS Foundation Trust,South East,General Surgery ,2023-05,5863,8.6,1809,245,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,01/02/2024,2899,8,689,121,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2023-06,3878,15.6,1264,216,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,2024-08,2791,17.7,1194,122,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,Urology,01/11/2023,3919,7.8,667,16,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2023-05,1785,12.8,642,18,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,01/11/2023,3110,,1127,81,No
+RXA,Northgate NHS Foundation Trust,North West,Dermatology ,Jun-23,2397,14.1,1034,159,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber, Cardiology,01/05/2023,2575,10.1,981,125,No
+RXD,Kingswood NHS Foundation Trust,South East,urology ,01/02/2024,2009,14.9,487,53,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,01/11/2023,2259,11.8,614,106,No
+RXD,Kingswood NHS Foundation Trust,South East,Gen Surgery,01/01/2023,5776,7.9,1142,213,No
+RXD,Kingswood NHS Foundation Trust,South East,trauma & orthopaedics,2024-10,5275,13.6,1416,93,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,Dec-24,2104,13.3,1065,154,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,Jun-23,5281,12.5,1723,261,No
+RXC, Riverside University Hospitals Trust ,London,cardiology,Jan-23,6040,9.4,3466,511,No
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,ent,Nov-24,4640,8.9,1241,248,No
+RXH,Sherbourne NHS Foundation Trust,North East,E.N.T.,2024-02,5580,14.9,1831,261,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,Nov-23,5751,13.3,1975,275,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ophthalmology ,01/05/2023,2477,11.3,916,110,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,gastroenterology,2024-07,2577,15.5,1291,0,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,urology ,01/01/2024,3740,9.7,1342,239,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,2024-05,2944,20.8,1401,160,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,E.N.T.,2024-08,4671,13.6,2335,399,No
+RXB,Eastfield General Hospitals Trust,East of England,ophthalmology ,2024-07,2096,14.2,484,102,No
+RXD,Kingswood NHS Foundation Trust,South East,Ear Nose and Throat,2023-11,5724,14.1,2690,243,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology ,01/01/2023,3273,,1593,203,No
+RXC,Riverside University Hospitals Trust,London,Opthalmology,Jul-24,2729,17.3,921,45,No
+RXC,Riverside University Hospitals Trust,London,ent,2024-12,3532,9,1764,260,No
+RXB,Eastfield General Hospitals Trust,East of England,Dermatology,2023-09,"2,317",15.1,822,87,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,2023-03,3167,10.8,824,52,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology,2023-10,1792,10.5,604,50,No
+RXB,Eastfield General Hospitals Trust,East of England, Cardiology,2023-12,1135,13,331,19,No
+RXC, Riverside University Hospitals Trust ,London,Ear Nose and Throat,May-23,3280,11.2,1083,149,No
+RXH,Sherbourne NHS Foundation Trust,North East,Ophthalmology,Feb-23,4078,,791,229,No
+RXC, Riverside University Hospitals Trust ,London,ENT,Jul-23,2929,8.6,1752,136,No
+RXB,Eastfield General Hospitals Trust,East of England,Derm,2024-02,2345,11.7,681,60,No
+RXC,Riverside University Hospitals Trust,London,General Surgery,2024-08,4915,11,1510,189,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,dermatology,2024-06,2724,12.5,537,48,No
+RXC,Riverside University Hospitals Trust,London,Urology,01/01/2024,"6,073",15.1,1910,185,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,2023-05,1117,15.3,358,69,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,ophthalmology ,2024-03,1993,11,698,151,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,Aug-23,1688,8.8,516,112,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery ,2023-11,1030,19.7,269,53,No
+RXD, Kingswood NHS Foundation Trust ,South East,Gastroenterology ,01/01/2024,2339,14,878,39,No
+RXC,Riverside University Hospitals Trust,London,Urology,01/02/2023,5879,14.1,3038,808,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,2024-11,4360,14.9,1493,153,No
+RXH,Sherbourne NHS Foundation Trust,North East,Dermatology,2023-05,3315,14.1,829,180,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Cardiology,2023-08,2793,15.5,998,58,No
+RXB,Eastfield General Hospitals Trust,East of England,Ear Nose and Throat,2023-06,5081,11,1765,438,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,01/10/2023,3102,11.6,844,85,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,Apr-24,4237,11.9,2338,288,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gen Surgery,Aug-23,2787,16.7,1276,108,No
+RXC,Riverside University Hospitals Trust,London,T&O,2024-07,4749,20.2,1556,154,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,trauma & orthopaedics,Nov-23,4204,13.8,2109,339,No
+RXA,NORTHGATE NHS FOUNDATION TRUST,North West,Gastroenterology ,Jun-23,5820,14.9,2316,309,No
+RXB,Eastfield General Hospitals Trust,East of England,trauma & orthopaedics,01/11/2023,1232,12,342,56,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,2023-02,4105,8.9,2001,277,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery ,2023-08,5485,12.3,2092,481,No
+RXF,Harborview NHS Foundation Trust,South West,Gastroenterology,01/03/2024,6289,11.6,2068,231,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2024-10,5445,15.7,1514,315,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology,2024-01,4970,12.5,967,168,No
+RXD,Kingswood NHS Foundation Trust,South East,Dermatology ,01/04/2023,2277,14.5,889,90,No
+RXD,Kingswood NHS Foundation Trust,South East,trauma & orthopaedics,01/02/2023,4960,12,1500,299,No
+RXG,MEADOWBROOK UNIVERSITY HOSPITALS TRUST,Yorkshire and the Humber,dermatology,2024-08,2486,12.6,984,135,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,Mar-23,2268,15.5,1052,283,No
+RXB,Eastfield General Hospitals Trust,East of England,trauma & orthopaedics,Feb-23,1190,11.7,320,54,No
+RXF,Harborview NHS Foundation Trust,South West,Derm,2024-05,2746,13,1104,78,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ent,2023-02,3007,9.2,1025,143,No
+RXB,Eastfield General Hospitals Trust,East of England,Trauma and Orthopaedics,2023-05,1087,15.9,441,34,No
+RXB,Eastfield General Hospitals Trust,East of England,General Surgery ,Oct-24,1946,16.2,938,48,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,Apr-23,5422,18.6,1748,153,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology ,2024-08,4946,16.1,1831,279,No
+RXC,Riverside University Hospitals Trust,London,General Surgery ,Nov-23,4966,14.3,1915,133,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,Aug-23,5000,10.1,1740,139,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology ,01/01/2024,4203,15.2,1569,230,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery ,2024-01,1341,16,356,31,No
+RXH,Sherbourne NHS Foundation Trust,North East,ophthalmology ,2024-06,4667,,831,39,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,ENT,01/11/2024,2197,22.5,307,49,No
+RXB,Eastfield General Hospitals Trust,East of England,T&O,2024-07,845,20.6,461,44,No
+RXD,Kingswood NHS Foundation Trust,South East, Cardiology,2024-12,2642,12.2,769,53,No
+RXF,Harborview NHS Foundation Trust,South West,Dermatology,2023-05,2762,12.4,1241,188,No
+RXH,Sherbourne NHS Foundation Trust,North East,cardiology,2024-08,5688,11.4,1677,200,No
+RXH,Sherbourne NHS Foundation Trust,North East,Trauma and Orthopaedics,2023-12,1109,12.5,554,65,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,urology ,2023-02,2769,14.1,1117,171,No
+RXA,Northgate NHS Foundation Trust,North West,ENT,01/04/2024,4155,14.9,1313,93,No
+RXD, Kingswood NHS Foundation Trust ,South East,Gastroenterology ,2024-03,2468,19.8,1001,39,No
+RXF,Harborview NHS Foundation Trust,South West,ENT,2024-04,4842,15.4,1639,203,No
+RXF,Harborview NHS Foundation Trust,South West,Gen Surgery,2023-05,5800,11,1075,226,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma and Orthopaedics,2023-08,5347,,1442,0,No
+RXA,Northgate NHS Foundation Trust,North West,Gen Surgery,Feb-24,1553,13.1,300,21,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ENT,2024-12,3247,17.2,700,105,No
+RXC,Riverside University Hospitals Trust,London,E.N.T.,Apr-23,3296,12.4,948,25,No
+RXA,Northgate NHS Foundation Trust,North West,General Surgery,Jun-24,1293,16.5,188,34,No
+RXD,Kingswood NHS Foundation Trust,South East,urology ,2024-09,1921,12.1,641,75,No
+RXB,Eastfield General Hospitals Trust,East of England,gastroenterology,2024-01,618,8,252,32,No
+RXB,Eastfield General Hospitals Trust,East of England,general surgery,2024-04,1680,13.1,469,36,No
+RXF, Harborview NHS Foundation Trust ,South West,Gastro,2023-11,5974,10.8,2471,98,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,2023-12,2758,,694,130,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology ,Jun-23,1075,16.2,327,30,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology ,Sep-23,975,10.4,403,77,No
+RXH,Sherbourne NHS Foundation Trust,North East,E.N.T.,01/03/2023,5658,10.9,1366,173,No
+RXH,Sherbourne NHS Foundation Trust,North East,Opthalmology,2023-11,4390,17.1,1481,0,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,01/12/2024,3063,14.3,925,164,No
+RXD, Kingswood NHS Foundation Trust ,South East,General Surgery,2024-11,5736,13.2,1482,103,No
+RXA,Northgate NHS Foundation Trust,North West,T&O,2023-09,2921,19.8,733,63,No
+RXB,Eastfield General Hospitals Trust,East of England,urology ,2024-01,4842,17,1915,105,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2023-10,2051,9.8,497,25,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2023-05,832,16.4,260,38,No
+RXF,Harborview NHS Foundation Trust,South West,dermatology,Jul-23,2825,16.4,1157,0,No
+RXH,Sherbourne NHS Foundation Trust,North East,ophthalmology ,01/09/2024,4357,16.2,1137,179,No
+RXC,Riverside University Hospitals Trust,London,trauma & orthopaedics,Jan-23,4372,16,1090,205,No
+RXF,Harborview NHS Foundation Trust,South West,Ophthalmology,Jul-24,"2,713",15.3,1358,212,No
+RXH,Sherbourne NHS Foundation Trust,North East,Derm,01/05/2024,3476,9.9,533,45,No
+RXB,Eastfield General Hospitals Trust,East of England,Gen Surgery,2023-09,1339,15.6,428,30,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology ,2024-09,2447,19.3,657,64,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Opthalmology,01/09/2024,2277,20.6,741,44,No
+RXH, Sherbourne NHS Foundation Trust ,North East,cardiology,2023-11,5470,11.2,2175,88,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,general surgery,2024-02,2353,12.7,697,95,No
+RXH,Sherbourne NHS Foundation Trust,North East,Opthalmology,Jan-24,4330,14.6,1105,149,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,2024-12,5784,23.8,2082,394,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery,2024-06,1224,12,527,49,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,Oct-23,6319,14.2,1278,173,No
+RXH,Sherbourne NHS Foundation Trust,North East,cardiology,2024-10,5794,16.5,2913,261,No
+RXB,Eastfield General Hospitals Trust,East of England,General Surgery,2024-09,1847,11.8,36,2,Yes
+RXA,Northgate NHS Foundation Trust,North West,Dermatology ,2024-02,2316,10.2,853,120,No
+RXA,Northgate NHS Foundation Trust,North West,ENT,2024-01,4240,11.4,1327,171,No
+RXD,Kingswood NHS Foundation Trust,South East,cardiology,2024-07,2558,19.8,1214,141,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma and Orthopaedics,01/03/2023,2581,11,814,58,No
+RXA,Northgate NHS Foundation Trust,North West,cardiology,01/05/2023,5694,18.7,2058,438,No
+RXF,Harborview NHS Foundation Trust,South West,general surgery,2024-03,5876,18.6,1910,515,No
+RXE,Vale of Aldern NHS Trust,West Midlands,General Surgery ,2023-09,2552,9.5,705,69,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gen Surgery,2024-09,2637,16.8,1020,79,No
+RXC,Riverside University Hospitals Trust,London,dermatology,2024-05,3747,14.8,1079,285,No
+RXB,Eastfield General Hospitals Trust,East of England,urology ,2023-04,4854,2.4,1559,99,No
+RXB, Eastfield General Hospitals Trust ,East of England,Cardiology,2024-10,1164,14.7,489,86,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Trauma & Orthopaedics,2023-04,5905,15.8,1158,174,No
+RXE,Vale of Aldern NHS Trust,West Midlands,E.N.T.,2024-01,3074,10.4,843,109,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology ,2023-05,2872,11.6,1080,119,No
+RXC,Riverside University Hospitals Trust,London,Gastroenterology,01/05/2024,3147,10.7,877,73,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Urology,01/04/2023,2938,14.5,1500,194,No
+RXC,Riverside University Hospitals Trust,London,Ear Nose and Throat,2023-10,3284,15.9,1192,238,No
+RXD,Kingswood NHS Foundation Trust,South East,ENT,Dec-24,5712,18.2,1480,312,No
+RXF,Harborview NHS Foundation Trust,South West,trauma & orthopaedics,2024-08,4939,14.7,1650,109,No
+RXC, Riverside University Hospitals Trust ,London,ophthalmology ,2024-09,2607,12.5,1079,82,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,Mar-24,"2,821",12.5,604,33,No
+RXA,Northgate NHS Foundation Trust,North West,ENT,Mar-24,4349,20.8,1179,277,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,General Surgery,2024-09,2499,15.9,452,27,No
+RXC,Riverside University Hospitals Trust,London, Cardiology,01/04/2023,6030,12.9,1737,241,No
+RXF, Harborview NHS Foundation Trust ,South West,E.N.T.,2024-07,5022,,2207,267,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,01/10/2023,2815,14.4,870,0,No
+RXA,Northgate NHS Foundation Trust,North West,ENT,2023-05,3966,7.5,1648,55,No
+RXB,Eastfield General Hospitals Trust,East of England,E.N.T.,2023-03,5181,10.7,2495,328,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,2024-10,4082,14,1450,258,No
+RXA,Northgate NHS Foundation Trust,North West,Trauma & Orthopaedics,01/12/2023,2735,12.7,1179,54,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,E.N.T.,2023-03,1866,9.8,556,110,No
+RXD, Kingswood NHS Foundation Trust ,South East,Gastro,2024-07,2557,16.4,1201,110,No
+RXA,Northgate NHS Foundation Trust,North West,Derm,Jan-23,2358,18.5,1193,182,No
+RXH, Sherbourne NHS Foundation Trust ,North East,Gastro,2023-05,1889,12.2,607,90,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,Gastroenterology ,01/04/2023,2838,7.7,562,36,No
+RXF,Harborview NHS Foundation Trust,South West,ent,2023-12,4668,14.9,2488,315,No
+RXA, Northgate NHS Foundation Trust ,North West,T&O,2024-09,2900,16,1095,185,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,urology ,2023-05,2755,14.3,726,76,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ear Nose and Throat,Sep-24,3159,10.7,1208,232,No
+RXA,Northgate NHS Foundation Trust,North West,Ophthalmology,May-23,3878,13.4,1362,239,No
+RXB, Eastfield General Hospitals Trust ,East of England,Urology,2023-09,5148,17.9,1290,184,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Dermatology,2024-07,4733,21.1,2244,222,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2024-01,5473,12.2,2947,189,No
+RXB,Eastfield General Hospitals Trust,East of England,ophthalmology ,01/04/2023,1923,10,584,49,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,2024-04,2920,11.9,1004,194,No
+RXD,Kingswood NHS Foundation Trust,South East,Gastroenterology ,2023-09,2469,13.8,929,182,No
+RXC,Riverside University Hospitals Trust,London,E.N.T.,2024-01,3562,10.3,1621,99,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,2024-12,"6,453",10.2,2256,139,No
+RXF,Harborview NHS Foundation Trust,South West,Cardiology,01/02/2023,2394,8.3,689,61,No
+RXF,Harborview NHS Foundation Trust,South West,Opthalmology,2023-02,3081,6.7,341,58,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma & Orthopaedics,2023-09,4185,13.1,189,17,Yes
+RXB,Eastfield General Hospitals Trust,East of England,Ophthalmology,Oct-24,2352,,882,80,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,cardiology,2023-08,1183,12.7,419,46,No
+RXD,KINGSWOOD NHS FOUNDATION TRUST,South East,Ear Nose and Throat,01/02/2023,5736,12.4,1476,199,No
+RXB,EASTFIELD GENERAL HOSPITALS TRUST,East of England,Ophthalmology,2024-02,1594,19.3,564,59,No
+RXH,Sherbourne NHS Foundation Trust,North East,dermatology,Jun-24,3073,13.3,1229,81,No
+RXC,Riverside University Hospitals Trust,London,cardiology,2023-05,6258,10.5,2792,146,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,2024-03,770,18.5,298,33,No
+RXF,Harborview NHS Foundation Trust,South West,General Surgery ,2023-11,5735,14,1038,136,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2023-03,3842,14.2,775,75,No
+RXD,Kingswood NHS Foundation Trust,South East,Cardiology,2024-01,2542,21.9,978,58,No
+RXH,Sherbourne NHS Foundation Trust,,Urology,2024-03,4258,8.5,1275,195,No
+RXA,Northgate NHS Foundation Trust,North West,trauma & orthopaedics,2024-01,2894,17.7,547,71,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,T&O,2023-05,4377,9.7,1065,279,No
+RXA,Northgate NHS Foundation Trust,North West,Gen Surgery,2023-03,1656,11.8,583,54,No
+RXD,Kingswood NHS Foundation Trust,South East,Urology,2023-11,1672,14.6,561,74,No
+RXC,Riverside University Hospitals Trust,London,Dermatology ,2023-05,3486,11.6,2080,125,No
+RXC,Riverside University Hospitals Trust,London,Cardiology,2024-06,6366,17.3,908,85,No
+RXB,Eastfield General Hospitals Trust,East of England,cardiology,01/09/2024,1497,16.2,552,56,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Gastroenterology,01/06/2024,2749,12.9,844,120,No
+RXH,SHERBOURNE NHS FOUNDATION TRUST,North East,Opthalmology,2024-11,4566,14.5,2092,93,No
+RXH,Sherbourne NHS Foundation Trust,North East,Cardiology,2023-06,5513,13.8,1335,242,No
+RXA,Northgate NHS Foundation Trust,North West,Derm,Oct-24,2642,15.1,1143,206,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Ophthalmology,2024-12,5618,10.4,2073,163,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,Jan-23,3951,11.5,1513,313,No
+RXA,Northgate NHS Foundation Trust,North West,urology ,Apr-24,789,17.9,294,42,No
+RXH,Sherbourne NHS Foundation Trust,North East,gastroenterology,Jun-24,1960,20.8,820,104,No
+RXF,Harborview NHS Foundation Trust,South West,E.N.T.,01/03/2023,5096,8.8,1897,347,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology,2023-01,4150,11.3,1047,174,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Opthalmology,2023-09,2604,16.5,1199,210,No
+RXC,Riverside University Hospitals Trust,London,Derm,01/08/2023,3599,15.5,950,182,No
+RXD,Kingswood NHS Foundation Trust,South East,gastroenterology,Dec-23,2686,15.5,959,102,No
+RXF,Harborview NHS Foundation Trust,South West,T&O,Jan-24,4840,12.4,2685,276,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,01/12/2024,4386,13.5,1431,235,No
+RXA,Northgate NHS Foundation Trust,North West,cardiology,2024-10,6201,7.8,1667,109,No
+RXF,Harborview NHS Foundation Trust,South West,ENT,2024-06,4894,9.3,1836,121,No
+RXA,Northgate NHS Foundation Trust,North West,Cardiology,2024-06,6026,12.7,1665,257,No
+RXC,RIVERSIDE UNIVERSITY HOSPITALS TRUST,London,gastroenterology,Jun-24,2702,14.6,1003,108,No
+RXA,Northgate NHS Foundation Trust,North West,Gastroenterology,2024-10,6214,11.8,1848,276,No
+RXA, Northgate NHS Foundation Trust ,North West,Urology,2024-05,895,14.8,359,40,No
+RXH,Sherbourne NHS Foundation Trust,North East,ENT,May-23,5493,10.4,979,36,No
+RXB,Eastfield General Hospitals Trust,East of England,Opthalmology,2023-11,2010,12.3,408,26,No
+RXF,Harborview NHS Foundation Trust,South West,trauma & orthopaedics,2024-06,4639,17.5,437,56,No
+RXD,Kingswood NHS Foundation Trust,South East,Derm,2023-09,2313,14.6,174,15,Yes
+RXF,HARBORVIEW NHS FOUNDATION TRUST,South West,ent,01/05/2024,4768,10.6,1634,267,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2024-12,5149,14.7,1983,439,No
+RXH,Sherbourne NHS Foundation Trust,North East,ophthalmology ,01/02/2024,4479,11.5,2265,40,No
+RXC,Riverside University Hospitals Trust,London,urology ,2023-10,5770,13.7,1832,472,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Ophthalmology,2024-11,2642,15.7,595,45,No
+RXF,Harborview NHS Foundation Trust,South West,Ophthalmology,2024-01,2984,12.9,1026,153,No
+RXA,Northgate NHS Foundation Trust,North West,Urology,Sep-23,732,12.5,277,43,No
+RXH,Sherbourne NHS Foundation Trust,North East,General Surgery,2024-04,945,18.9,425,39,No
+RXB,Eastfield General Hospitals Trust,East of England,Urology,2024-08,5093,17.3,1296,81,No
+RXG, Meadowbrook University Hospitals Trust ,Yorkshire and the Humber,T&O,2024-08,"3,852",17.2,1372,312,No
+RXF,Harborview NHS Foundation Trust,South West,Ear Nose and Throat,2023-09,4972,16.4,1267,138,No
+RXC,Riverside University Hospitals Trust,London,dermatology,01/04/2024,3737,17.7,958,76,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands,E.N.T.,2024-03,3295,15.4,920,160,No
+RXC,Riverside University Hospitals Trust,London,dermatology,2023-04,3543,14.7,1205,113,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Trauma and Orthopaedics,01/01/2023,4364,13.1,1325,140,No
+RXC,Riverside University Hospitals Trust,London,Trauma and Orthopaedics,2023-06,4626,17.3,2080,195,No
+RXD,Kingswood NHS Foundation Trust,South East,Trauma & Orthopaedics,Nov-24,5599,12.9,2104,257,No
+RXE,VALE OF ALDERN NHS TRUST,West Midlands, Cardiology,01/09/2023,4031,17.1,1540,202,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Opthalmology,2024-07,2574,17.1,1407,130,No
+RXD,Kingswood NHS Foundation Trust,South East,ENT,2024-06,5820,12,2853,461,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Urology,Sep-24,2894,18.6,655,138,No
+RXB,Eastfield General Hospitals Trust,East of England,ent,Jul-24,4923,10.9,2213,199,No
+RXE,Vale of Aldern NHS Trust,West Midlands,ent,01/07/2024,3153,11.5,704,149,No
+RXD,Kingswood NHS Foundation Trust,South East,Opthalmology,2024-03,1652,17,807,23,No
+RXH,Sherbourne NHS Foundation Trust,North East,Gastroenterology,2023-11,1853,,628,51,No
+RXB,Eastfield General Hospitals Trust,East of England,Gastroenterology,2023-02,1069,14.5,305,39,No
+RXH,Sherbourne NHS Foundation Trust,North East,Urology,2024-05,4151,14.5,1260,0,No
+RXC,Riverside University Hospitals Trust,London,general surgery,2024-03,4689,7.7,1259,135,No
+RXH, Sherbourne NHS Foundation Trust ,North East,Cardiology,2023-08,5617,14.4,2043,107,No
+RXD,Kingswood NHS Foundation Trust,South East,T&O,2023-06,5759,12.6,2236,204,No
+RXC, Riverside University Hospitals Trust ,London,cardiology,Jan-23,6040,9.4,3466,511,No
+RXH, Sherbourne NHS Foundation Trust ,North East,cardiology,Jul-23,5291,9.7,1880,189,No
+RXF,Harborview NHS Foundation Trust,South West,urology ,Apr-24,3499,,1476,163,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gastroenterology,01/06/2023,4022,12.9,1172,211,No
+RXF, Harborview NHS Foundation Trust ,South West,Ear Nose and Throat,2023-10,4802,14.6,1419,249,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Cardiology,2023-12,4408,10,1574,66,No
+RXD,Kingswood NHS Foundation Trust,South East,Ophthalmology,2023-12,1695,10.3,296,8,No
+RXF,Harborview NHS Foundation Trust,South West,ENT,Feb-24,4775,13.5,892,89,No
+RXE,Vale of Aldern NHS Trust,West Midlands,Gen Surgery,Oct-24,2873,11.4,718,75,No
+RXB,Eastfield General Hospitals Trust,East of England,ent,2024-05,4871,11,1074,203,No
+RXF,Harborview NHS Foundation Trust,South West,general surgery,Sep-23,5497,14.8,2270,16,No
+RXE,Vale of Aldern NHS Trust,West Midlands,urology ,2024-05,3100,16.9,898,13,No
+RXG,Meadowbrook University Hospitals Trust,Yorkshire and the Humber,Dermatology,2023-02,3144,12.7,1180,97,No
