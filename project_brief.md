@@ -50,8 +50,7 @@ questions above, plus written insights
 
 Excel (initial inspection \& Power Query cleaning), SQL (SQLite Server — any engine you're comfortable with), Power BI (modelling, DAX, visualisation)
 
-https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/nhs-waiting-times/README.md
-
+README.md
 
 
 
