@@ -74,7 +74,7 @@ The backlog is large, growing, and broad-based rather than concentrated in one r
 ## Repo Structure
 └── nhs-waiting-times/
 
-- README.md
+- [README.md](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/71fb01dedf59eb979b9ce9b61d571c74808718a1/README.md)
   
 - project\_brief.md
 
