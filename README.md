@@ -62,6 +62,8 @@ The backlog is large, growing, and broad-based rather than concentrated in one r
 
 ## Power BI Dashboard
 
+- [nhs_waiting_times_dashboard.pbix](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/d6e3ea6dececb87178e2ecb0913d96e81066d7f2/nhs_waiting_times_dashboard.pbix)
+
 ## Overview
 <img width="825" height="463" alt="image" src="https://github.com/user-attachments/assets/3e7c58d7-e187-4b7b-8f71-6b0a79c8c6e4" />
  
@@ -82,20 +84,21 @@ The backlog is large, growing, and broad-based rather than concentrated in one r
 
 └── data/
 
-- raw/nhs\_waiting\_times\_raw.csv     
+- [nhs_waiting_times_raw](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/d6e3ea6dececb87178e2ecb0913d96e81066d7f2/nhs_waiting_times_raw.csv)
 
-- clean/nhs\_waiting\_times\_clean.csv   
+- [nhs_waiting_times_clean](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/d6e3ea6dececb87178e2ecb0913d96e81066d7f2/nhs_waiting_times_clean.csv)
 
 └── sql/
-- nhs_create_check_table.sql
+- [nhs_create_check_table.sql](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/d6e3ea6dececb87178e2ecb0913d96e81066d7f2/nhs_create_check_table.sql)
 
-- nhs_cleaning_validation_queries.sql
+- [nhs_cleaning_validation_queries.sql](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/d6e3ea6dececb87178e2ecb0913d96e81066d7f2/nhs_cleaning_validation_queries.sql)
 
-- nhs_analysis.sql
+- [nhs_analysis.sql](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/d6e3ea6dececb87178e2ecb0913d96e81066d7f2/nhs_analysis.sql)
 
 
 └── powerbi/
- nhs_waiting_times_dashboard.pbix
+
+- [nhs_waiting_times_dashboard.pbix](https://github.com/dsinghsl/NHS_Referral-to-Treatment_Waiting_Times_Analysis/blob/d6e3ea6dececb87178e2ecb0913d96e81066d7f2/nhs_waiting_times_dashboard.pbix)
 
 ## What This Project Demonstrates
 Handling untidy real-world exports with defensible, documented data-cleaning decisions; SQL for validation and analysis; and a Power BI report built for a non-technical stakeholder audience.
