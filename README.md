@@ -11,7 +11,6 @@ End-to-end analysis of simulated NHS waiting list data across 8 trusts and 8 spe
 
 ## Tools Used
 Excel & Power Query (cleaning) · SQL (validation & analysis) · Power BI (data modelling, DAX, dashboard).
-Process
 
 ## 1. Database & Table Creation
 •	Designed a SQL staging table matching the raw export’s structure (trust, specialty, month, wait bands, breaches, region)
